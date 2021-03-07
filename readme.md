@@ -43,7 +43,6 @@ https://4lain.vercel.app/
 <a href="https://auth.geeksforgeeks.org/user/geeksforgeeksusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="geeksforgeeksusername" height="30" width="40" /></a>
 <a href="/rssfeedurl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="rssfeedurl" height="30" width="40" /></a>
 </p>
-
 <br />
 
 ### Languages and Tools:
@@ -55,23 +54,11 @@ https://4lain.vercel.app/
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Brackets is Dead | Switch to VS Code (Visual Studio Code Setup 2021)](https://www.youtube.com/watch?v=MQxLbUX5BFA)
-- [Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #8)](https://www.youtube.com/watch?v=tSSzfT5Txv8)
-- [How To Write Clean Code! | JavaScript Pro Tips (2021)](https://www.youtube.com/watch?v=ZI3q-_vjSZE)
-- [[#7] Top Web Dev Videos You NEED to Watch! (STACKr News 2021, Issue #7)](https://www.youtube.com/watch?v=pQyR71kNTo8)
-- [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/4L4IN)
+📺 YouTube [Channel](https://youtube.com/4L4IN)
 
 ---
 
-### 📕 Blogs posts
+### 📕 Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
 - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
