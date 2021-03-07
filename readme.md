@@ -1,14 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alain Herve</h1>
+<h1 align="center">Hi there 👋, I'm Alain Herve</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4l4in&label=Profile%20views&color=0e75b6&style=flat" alt="4l4in" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4l4in" alt="4l4in" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/twitterusername" target="blank"><img src="https://img.shields.io/twitter/follow/twitterusername?logo=twitter&style=for-the-badge" alt="twitterusername" /></a> </p>
-
-
-### Hi there, I'm Alain Herve - aka [Alain][website] 👋
+###  - aka [Alain][website]
 
 [![Website](https://img.shields.io/website?label=R16TW34K.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rigtweak.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/4L4IN?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
