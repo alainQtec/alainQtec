@@ -93,7 +93,7 @@ https://4lain.vercel.app/
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Alain's GitHub Stats" src="https://readme-stats-f7hwoe24x-al4in.vercel.app/api?username=al4in&show_icons=true&hide_border=true" />
+  <img align="left" alt="Alain's GitHub Stats" src="https://readme-stats-git-main-al4in.vercel.app//api?username=al4in&show_icons=true&hide_border=true" />
 
 </details>
 
