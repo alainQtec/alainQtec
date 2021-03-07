@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm ### [Alain Herve][website]</h1>
+<h1 align="center">Hi there 👋, I'm [Alain Herve][website]</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
 [![Website](https://img.shields.io/website?label=R16TW34K.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rigtweak.com)
