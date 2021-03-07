@@ -18,7 +18,7 @@
 - 💬 Ask me about **react vue ...**
 - ⚡ Fun fact: I love sketching, design and Creative coding.
 - 🥅 2021 Goal: Contribute more to Open Source projects.
-- 📫 How to reach me [**alainhervem@gmail.com**](alainhervem@gmail.com)
+- 📫 How to reach me [**alainhervem@gmail.com**](https://mail.google.com/mail/u/?authuser=alainhervem@gmail.com)
 
 
 <!--
