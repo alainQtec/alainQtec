@@ -27,8 +27,7 @@ https://4lain.vercel.app/
 -->
 
 ### Connect with me:
-
-<h3 align="left">Connect with me:</h3>
+<br />
 <p align="left">
 <a href="https://dev.to/dev.2username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
 <a href="https://twitter.com/twitterusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitterusername" height="30" width="40" /></a>
