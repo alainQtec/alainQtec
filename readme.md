@@ -8,16 +8,17 @@
 
 
 [![Website](https://img.shields.io/website?label=R16TW34K.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rigtweak.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/4L4IN?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/4L4IN?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F4L4IN&screen_name=4L4IN)
 
-## I'm a Tech enthusiast, College Student, and Developer!!
+### I'm a Tech enthusiast, College Student, and Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][windows10]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sketching, design and Creative coding.
 
+
+🔭 I’m currently working on a great geeky [website](aka R16TW34K), You will Love it.
 <!--
 ### Spotify Playing 🎧
 
@@ -80,11 +81,11 @@ https://4lain.vercel.app/
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/4L4IN/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/4L4IN/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/4L4IN/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/4L4IN/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/4L4IN/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/4L4IN/codestackr-vscode-theme)
+1. ❗️ Closed issue [#8](https://github.com/4L4IN/free-developer-resources/issues/8) in [4L4IN/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
+2. 🗣 Commented on [#8](https://github.com/4L4IN/free-developer-resources/issues/8) in [4L4IN/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
+3. 🗣 Commented on [#7](https://github.com/4L4IN/free-developer-resources/issues/7) in [4L4IN/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
+4. 🎉 Merged PR [#7](https://github.com/4L4IN/free-developer-resources/pull/7) in [4L4IN/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
+5. 🗣 Commented on [#3](https://github.com/4L4IN/codestackr-vscode-theme/issues/3) in [4L4IN/4L4IN-vscode-theme](https://github.com/4L4IN/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
 
 </details>
@@ -92,28 +93,3 @@ https://4lain.vercel.app/
   <summary>Streak</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4l4in&" alt="4l4in" /></p>
 </details>
-
-
-<!-- Links -->
-[website]: https://rigtweak.com
-[windows10]: https://rigtweak.com/blog/windows10
-[twitter]: https://twitter.com/4L4IN
-[youtube]: https://youtube.com/4L4IN
-[instagram]: https://www.instagram.com/mr.alain_herve
-[linkedin]: https://linkedin.com/in/4L4IN
-[VscodeAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MyHtmlAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MycssAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MysassAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MyjsAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MyReactAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MygatsbyAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MyGraphQLadventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MyNodejsAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MydenoAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MySQL]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MymongoDBadventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MyGITadventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MyGITadventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MyGithubAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
-[MYTerminalAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
