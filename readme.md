@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Alain Herve</h1>
+<h3 align="center">A passionate frontend developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=4l4in&label=Profile%20views&color=0e75b6&style=flat" alt="4l4in" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4l4in" alt="4l4in" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/twitterusername" target="blank"><img src="https://img.shields.io/twitter/follow/twitterusername?logo=twitter&style=for-the-badge" alt="twitterusername" /></a> </p>
+
+
 ### Hi there, I'm Alain Herve - aka [Alain][website] 👋
 
 [![Website](https://img.shields.io/website?label=R16TW34K.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rigtweak.com)
@@ -11,11 +21,14 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sketching, design and Creative coding.
 
+<!--
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="4L4IN Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 https://4lain.vercel.app/
 [<img src="https://now-playing-4lain.vercel.app/api/spotify-playing" alt="4L4IN Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+-->
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -63,9 +76,9 @@ https://4lain.vercel.app/
 
 ---
 
-### 📕 Latest Blog Posts
-
+### 📕 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
 - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
