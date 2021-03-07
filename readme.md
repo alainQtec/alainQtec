@@ -13,12 +13,14 @@
 ### I'm a Tech enthusiast, College Student, and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🤝 I’m looking to collaborate with other content creators
+- 📝 I regularly write articles on my [blog](https://rigtweak.com/blog)
+- 💬 Ask me about **react vue ...**
 - ⚡ Fun fact: I love sketching, design and Creative coding.
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- 📫 How to reach me **example@gmail.com**
 
 
-🔭 I’m currently working on a great geeky [website](aka R16TW34K), You will Love it.
 <!--
 ### Spotify Playing 🎧
 
