@@ -1,7 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Alain Herve</h1>
+<h1 align="center">Hi there 👋, I'm ### [Alain Herve][website]</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-
-###  - aka [Alain][website]
 
 [![Website](https://img.shields.io/website?label=R16TW34K.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rigtweak.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/4L4IN?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
