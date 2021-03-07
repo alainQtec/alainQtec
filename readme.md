@@ -1,413 +1,123 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
-</p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
+### Hi there, I'm Alain Herve - aka [Alain][website] 👋
 
-  <p align="center">
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
-  </p>
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
-</p>
-<p align="center">Loved the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
+[![Website](https://img.shields.io/website?label=R16TW34K.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rigtweak.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/4L4IN?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-# Features
+## I'm a Tech enthusiast, College Student, and Developer!!
 
-- [GitHub Stats Card](#github-stats-card)
-- [GitHub Extra Pins](#github-extra-pins)
-- [Top Languages Card](#top-languages-card)
-- [Wakatime Week Stats](#wakatime-week-stats)
-- [Themes](#themes)
-- [Customization](#customization)
-- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][windows10]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love sketching, design and Creative coding.
 
-# GitHub Stats Card
+### Spotify Playing 🎧
 
-Copy-paste this into your markdown content, and that's it. Simple!
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="4L4IN Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+https://4lain.vercel.app/
+[<img src="https://now-playing-4lain.vercel.app/api/spotify-playing" alt="4L4IN Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+### Connect with me:
 
-Change the `?username=` value to your GitHub's username.
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="4LAIN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="4L4IN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="4L4IN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="4L4IN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-```
+<br />
 
-_Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
-The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
-The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js)_
+### Languages and Tools:
 
-### Hiding individual stats
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VscodeAdventure]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][MyHtmlAdventure]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][MycssAdventure]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][MysassAdventure]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][MyjsAdventure]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][MyReactAdventure]
+[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][MygatsbyAdventure]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][MyGraphQLadventure]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][MyNodejsAdventure]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][MydenoAdventure]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MySQL]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][MymongoDBadventure]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][MyGITadventure]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][MyGithubAdventure]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][MYTerminalAdventure]
 
-To hide any specific stats, you can pass a query parameter `?hide=` with comma-separated values.
-
-> Options: `&hide=stars,commits,prs,issues,contribs`
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-```
-
-### Adding private contributions count to total commits count
-
-You can add the count of all your private contributions to the total commits count by using the query parameter `?count_private=true`.
-
-_Note: If you are deploying this project yourself, the private contributions will be counted by default otherwise you need to chose to share your private contribution counts._
-
-> Options: `&count_private=true`
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-```
-
-### Showing icons
-
-To enable icons, you can pass `show_icons=true` in the query param, like so:
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-```
-
-### Themes
-
-With inbuilt themes, you can customize the look of the card without doing any [manual customization](#customization).
-
-Use `?theme=THEME_NAME` parameter like so :-
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-```
-
-#### All inbuilt themes :-
-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
-
-You can look at a preview for [all available themes](./themes/README.md) or checkout the [theme config file](./themes/index.js) & **you can also contribute new themes** if you like :D
-
-### Customization
-
-You can customize the appearance of your `Stats Card` or `Repo Card` however you want with URL params.
-
-#### Common Options:
-
-- `title_color` - Card's title color _(hex color)_
-- `text_color` - Body text color _(hex color)_
-- `icon_color` - Icons color if available _(hex color)_
-- `bg_color` - Card's background color _(hex color)_ **or** a gradient in the form of _angle,start,end_
-- `hide_border` - Hides the card's border _(boolean)_
-- `theme` - name of the theme, choose from [all available themes](./themes/README.md)
-- `cache_seconds` - set the cache header manually _(min: 1800, max: 86400)_
-- `locale` - set the language in the card _(e.g. cn, de, es, etc.)_
-
-##### Gradient in bg_color
-
-You can provide multiple comma-separated values in bg_color option to render a gradient, the format of the gradient is :-
-
-```
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
-```
-
-> Note on cache: Repo cards have a default cache of 4 hours (14400 seconds) if the fork count & star count is less than 1k, otherwise, it's 2 hours (7200 seconds). Also, note that the cache is clamped to a minimum of 2 hours and a maximum of 24 hours
-
-#### Stats Card Exclusive Options:
-
-- `hide` - Hides the specified items from stats _(Comma-separated values)_
-- `hide_title` - _(boolean)_
-- `hide_rank` - _(boolean)_ hides the rank and automatically resizes the card width
-- `show_icons` - _(boolean)_
-- `include_all_commits` - Count total commits instead of just the current year commits _(boolean)_
-- `count_private` - Count private commits _(boolean)_
-- `line_height` - Sets the line-height between text _(number)_
-- `custom_title` - Sets a custom title for the card
-- `disable_animations` - Disables all animations in the card _(boolean)_
-
-#### Repo Card Exclusive Options:
-
-- `show_owner` - Show the owner name of the repo _(boolean)_
-
-#### Language Card Exclusive Options:
-
-- `hide` - Hide the languages specified from the card _(Comma-separated values)_
-- `hide_title` - _(boolean)_
-- `layout` - Switch between two available layouts `default` & `compact`
-- `card_width` - Set the card's width manually _(number)_
-- `langs_count` - Show more languages on the card, between 1-10, defaults to 5 _(number)_
-- `exclude_repo` - Exclude specified repositories _(Comma-separated values)_
-- `custom_title` - Sets a custom title for the card
-
-> :warning: **Important:**
-> Language names should be uri-escaped, as specified in [Percent Encoding](https://en.wikipedia.org/wiki/Percent-encoding)
-> (i.e: `c++` should become `c%2B%2B`, `jupyter notebook` should become `jupyter%20notebook`, etc.) You can use
-> [urlencoder.org](https://www.urlencoder.org/) to help you do this automatically.
-
-#### Wakatime Card Exclusive Options:
-
-- `hide_title` - _(boolean)_
-- `line_height` - Sets the line-height between text _(number)_
-- `hide_progress` - Hides the progress bar and percentage _(boolean)_
-- `custom_title` - Sets a custom title for the card
-- `layout` - Switch between two available layouts `default` & `compact`
-- `api_domain` - Set a custom api domain for the card
+<br />
+<br />
 
 ---
 
-# GitHub Extra Pins
+### 📺 Latest YouTube Videos
 
-GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile.
+<!-- YOUTUBE:START -->
+- [Brackets is Dead | Switch to VS Code (Visual Studio Code Setup 2021)](https://www.youtube.com/watch?v=MQxLbUX5BFA)
+- [Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #8)](https://www.youtube.com/watch?v=tSSzfT5Txv8)
+- [How To Write Clean Code! | JavaScript Pro Tips (2021)](https://www.youtube.com/watch?v=ZI3q-_vjSZE)
+- [[#7] Top Web Dev Videos You NEED to Watch! (STACKr News 2021, Issue #7)](https://www.youtube.com/watch?v=pQyR71kNTo8)
+- [Top VS Code Updates | v1.53 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=vTf_KPsD0pQ)
+<!-- YOUTUBE:END -->
 
-Yay! You are no longer limited to 6 pinned repositories.
-
-### Usage
-
-Copy-paste this code into your readme and change the links.
-
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
-
-```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Demo
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-Use [show_owner](#customization) variable to include the repo's owner username
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
-# Top Languages Card
-
-The top languages card shows a GitHub user's top languages which have used the most.
-
-_NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats._
-
-### Usage
-
-Copy-paste this code into your readme and change the links.
-
-Endpoint: `api/top-langs?username=anuraghazra`
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Exclude individual repositories
-
-You can use `?exclude_repo=repo1,repo2` parameter to exclude individual repositories.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Hide individual languages
-
-You can use `?hide=language1,language2` parameter to hide individual languages.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Show more languages
-
-You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Compact Language Card Layout
-
-You can use the `&layout=compact` option to change the card design.
-
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Demo
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-- Compact layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-# Wakatime Week Stats
-
-Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
-
-```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Demo
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-- Compact layout
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+➡️ [more videos...](https://youtube.com/4L4IN)
 
 ---
 
-### All Demos
+### 📕 Latest Blog Posts
 
-- Default
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
-
-- Hiding specific stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
-
-- Showing icons
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
-
-- Include All Commits
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
-
-- Themes
-
-Choose from any of the [default themes](#themes)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-- Gradient
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-- Customizing stats card
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-- Setting card locale
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
-
-- Customizing repo card
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-- Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-- Wakatime card
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+➡️ [more blog posts...](https://rigtweak.com/blog)
 
 ---
-
-### Quick Tip (Align The Repo Cards)
-
-You usually won't be able to layout the images side by side. To do that you can use this approach:
-
-```md
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-```
-
-## Deploy on your own Vercel instance
-
-#### [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
-
-Since the GitHub API only allows 5k requests per hour, my `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter. If you host it on your own Vercel server, then you don't have to worry about anything. Click on the deploy button to get started!
-
-NOTE: Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
-
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
 
 <details>
- <summary><b> Guide on setting up Vercel  🔨 </b></summary>
-
-1. Go to [vercel.com](https://vercel.com/)
-1. Click on `Log in`
-   ![](https://files.catbox.moe/tct1wg.png)
-1. Sign in with GitHub by pressing `Continue with GitHub`
-   ![](https://files.catbox.moe/btd78j.jpeg)
-1. Sign into GitHub and allow access to all repositories, if prompted
-1. Fork this repo
-1. Go back to your [Vercel dashboard](https://vercel.com/dashboard)
-1. Select `Import Project`
-   ![](https://files.catbox.moe/qckos0.png)
-1. Select `Import Git Repository`
-   ![](https://files.catbox.moe/pqub9q.png)
-1. Select root and keep everything as is, just add your environment variable named PAT_1 (as shown), which will contain a personal access token (PAT), which you can easily create [here](https://github.com/settings/tokens/new) (leave everything as is, just name it something, it can be anything you want)
-   ![](https://files.catbox.moe/0ez4g7.png)
-1. Click deploy, and you're good to go. See your domains to use the API!
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#8](https://github.com/4L4IN/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
+2. 🗣 Commented on [#8](https://github.com/4L4IN/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
+3. 🗣 Commented on [#7](https://github.com/4L4IN/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
+4. 🎉 Merged PR [#7](https://github.com/4L4IN/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
+5. 🗣 Commented on [#3](https://github.com/4L4IN/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/4L4IN/codestackr-vscode-theme)
+<!--END_SECTION:activity-->
 
 </details>
 
-## :sparkling_heart: Support the project
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can use this service for free.
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-However, if you are using this project and happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
-
-- Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
-- Starring and sharing the project :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
-
-Thanks! :heart:
-
----
-
-[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
+</details>
 
 
-Contributions are welcome! <3
-
-Made with :heart: and JavaScript.
+<!-- Links -->
+[website]: https://rigtweak.com
+[windows10]: https://rigtweak.com/blog/windows10
+[twitter]: https://twitter.com/4L4IN
+[youtube]: https://youtube.com/4L4IN
+[instagram]: https://www.instagram.com/mr.alain_herve
+[linkedin]: https://linkedin.com/in/4L4IN
+[VscodeAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MyHtmlAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MycssAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MysassAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MyjsAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MyReactAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MygatsbyAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MyGraphQLadventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MyNodejsAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MydenoAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MySQL]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MymongoDBadventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MyGITadventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MyGITadventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MyGithubAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
+[MYTerminalAdventure]: https://rigtweak.com/about/AlainHerve/portfolio/
