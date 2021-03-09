@@ -86,14 +86,12 @@ Stay tuned ...
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-<!--
 1. ❗️ Closed issue [#8](https://github.com/4L4IN/free-developer-resources/issues/8) in [4L4IN/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
 2. 🗣 Commented on [#8](https://github.com/4L4IN/free-developer-resources/issues/8) in [4L4IN/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
 3. 🗣 Commented on [#7](https://github.com/4L4IN/free-developer-resources/issues/7) in [4L4IN/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
 4. 🎉 Merged PR [#7](https://github.com/4L4IN/free-developer-resources/pull/7) in [4L4IN/free-developer-resources](https://github.com/4L4IN/free-developer-resources)
 5. 🗣 Commented on [#3](https://github.com/4L4IN/codestackr-vscode-theme/issues/3) in [4L4IN/4L4IN-vscode-theme](https://github.com/4L4IN/codestackr-vscode-theme)
--->
-Please wait ...
+
 <!--END_SECTION:activity-->
 
 </details>
