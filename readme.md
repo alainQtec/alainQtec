@@ -30,10 +30,9 @@ https://4lain.vercel.app/
 -->
 
 ### Connect with me:
-<br />
 <p align="left">
 <a href="https://dev.to/dev.2username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
-<a href="https://twitter.com/twitterusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitterusername" height="30" width="40" /></a>
+<a href="https://twitter.com/twitterusername" target="blank"><img align="center" src="https://simple-icons.github.io/simple-icons-website/icons/twitter.svg" alt="4L4INdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedinusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflowuserid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codesandboxusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandboxusername" height="30" width="40" /></a>
