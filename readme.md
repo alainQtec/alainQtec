@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🤝 I’m looking to collaborate with other content creators
 - 📝 I regularly write articles on my [blog](https://rigtweak.com/blog)
-- 💬 Ask me about **react vue ...**
+- 💬 Ask me about **Powershell, react, vue ...**
 - ⚡ Fun fact: I love sketching, design and Creative coding.
 - 🥅 2021 Goal: Contribute more to Open Source projects.
 - 📫 How to reach me [**alainhervem@gmail.com**](https://mail.google.com/mail/u/?authuser=alainhervem@gmail.com)
