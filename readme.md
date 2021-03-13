@@ -17,7 +17,7 @@
 - 💬 Ask me about **Powershell, react, vue ...**
 - 🌈 When I'm not coding: I like Drawing, designing and Gaming.
 - 🎯 2021 Goal: Contribute more to Open Source projects.
-- 📫 How to reach me: [**alainhervem@gmail.com**](https://mail.google.com/mail/u/?authuser=alainhervem@gmail.com)
+- 📫 How to reach me: [**alainhervem@gmail.com**](< a href="mailto:alainhervem@gmail.com">Alain< /a>)
 
 
 <!--
