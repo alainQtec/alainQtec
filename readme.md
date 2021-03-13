@@ -10,15 +10,14 @@
 [![Website](https://img.shields.io/website?label=R16TW34K.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rigtweak.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/4L4INdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F4L4IN&screen_name=4L4INdev)
 
-### I'm a Tech enthusiast, College Student, and Developer!!
-
+- 😄 Pronouns: He/Him
 - 🌱 I’m currently learning everything 🤣
 - 🤝 I’m looking to collaborate with other content creators
 - 📝 I regularly write articles on my [blog](https://rigtweak.com/blog)
 - 💬 Ask me about **Powershell, react, vue ...**
-- 🌈 Fun fact: I love sketching, design and Creative coding.
+- 🌈 When I'm not coding: I like Drawing, designing and Gaming.
 - 🎯 2021 Goal: Contribute more to Open Source projects.
-- 📫 How to reach me [**alainhervem@gmail.com**](https://mail.google.com/mail/u/?authuser=alainhervem@gmail.com)
+- 📫 How to reach me: [**alainhervem@gmail.com**](https://mail.google.com/mail/u/?authuser=alainhervem@gmail.com)
 
 
 <!--
