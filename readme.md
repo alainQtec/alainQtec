@@ -73,11 +73,11 @@ Stay tuned ...
 ---
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=4l4in&label=Profile%20views&color=0e75b6&style=flat" alt="4l4in" /> </p>
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>GitHub Stats 🎫</summary>
   <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=4L4IN&show_icons=true&hide_border=true" /></p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4l4in" alt="4l4in" /></a> </p>
 </details>
 <details>
-  <summary>Streak</summary>
+  <summary>Streak🔥</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4l4in&" alt="4l4in" /></p>
 </details>
