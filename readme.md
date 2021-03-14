@@ -78,19 +78,6 @@ Stay tuned ...
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4l4in" alt="4l4in" /></a> </p>
 </details>
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/4L4IN/R16TW34K/issues/8) in [4L4IN/R16TW34K..](https://github.com/4L4IN/R16TW34K)
-2. 🗣 Commented on [#8](https://github.com/4L4IN/R16TW34K/issues/8) in [4L4IN/R16TW34K..](https://github.com/4L4IN/R16TW34K)
-3. 🗣 Commented on [#7](https://github.com/4L4IN/R16TW34K/issues/7) in [4L4IN/R16TW34K..](https://github.com/4L4IN/R16TW34K)
-4. 🎉 Merged PR [#7](https://github.com/4L4IN/R16TW34K/pull/7) in [4L4IN/R16TW34K..](https://github.com/4L4IN/R16TW34K)
-5. 🗣 Commented on [#3](https://github.com/4L4IN/R16TW34K/issues/3) in [4L4IN/R16TW34K..](https://github.com/4L4IN/R16TW34K)
-
-<!--END_SECTION:activity-->
-
-</details>
-<details>
   <summary>Streak</summary>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4l4in&" alt="4l4in" /></p>
 </details>
