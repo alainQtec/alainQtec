@@ -18,7 +18,6 @@
 
 <!--
 ### Spotify Playing 🎧
-
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="4L4IN Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 https://4lain.vercel.app/
 [<img src="https://now-playing-4lain.vercel.app/api/spotify-playing" alt="4L4IN Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
