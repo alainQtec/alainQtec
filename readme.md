@@ -1,5 +1,5 @@
 
-<h2 align="center">😃 Hi there 👋, I'm <a href="https://www.alainherve.com/about/">Alain</a></h2>
+<h2 align="center">Hi there 👋, I'm <a href="https://www.alainherve.com/about/">Alain</a></h2>
 <h3 align="center">A passionate developer.</h3><br />
 
 [![Website](https://img.shields.io/website?label=BuildInProgress..&style=for-the-badge&url=https%3A%2F%2Ftweakverse.com)](https://www.tweakverse.com)
