@@ -7,7 +7,6 @@
 
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning everything 🤣
 - 📝 I regularly write articles on my [blogs](https://www.alainherve.com/blogs)
 - 💬 Ask me about **Powershell, react, vue ...**
 - 🌈 In my spare time: I do art-coding and Gaming.
