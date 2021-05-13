@@ -8,7 +8,6 @@
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning everything 🤣
-<!-- - 🤝 I’m looking to collaborate with other content creators -->
 - 📝 I regularly write articles on my [blogs](https://www.alainherve.com/blogs)
 - 💬 Ask me about **Powershell, react, vue ...**
 - 🌈 When I'm not coding: I like Drawing, designing and Gaming.
