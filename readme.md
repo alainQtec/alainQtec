@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 📝 I regularly write articles on my [blogs](https://www.alainherve.com/blogs)
 - 💬 Ask me about **Powershell, react, vue ...**
-- 🌈 When I'm not coding: I like Drawing, designing and Gaming.
+- 🌈 In my spare time: I do art-coding and Gaming.
 - 🎯 2021 Goal: Contribute more to Open Source projects.
 - 📫 Mail me: [**Outlook**](mailto:alain.1337dev@outlook.com) or [**Gmail**](mailto:alainhervem@gmail.com)
 
