@@ -1,5 +1,5 @@
 
-<!--<h2 align="center">Hi there 👋, I'm <a href="https://www.alainherve.com/about/">Alain</a></h2>-->
+<!--<h2 align="center">Hi there 👋, I'm <a href="https://www.alainBuild.com/about/">Alain</a></h2>-->
 <h3 align="Left">Alain</h3>
 
 [![Website](https://img.shields.io/website?label=BuildInProgress..&style=for-the-badge&url=https%3A%2F%2Fa_Website)](a_website_Link)
@@ -7,7 +7,7 @@
 
 
 - 😄 Pronouns: He/Him
-- 📝 I regularly write articles on my [blogs](https://www.alainherve.com/blogs)
+- 📝 I regularly write articles on my [blogs](https://www.alainBuild.com/blogs)
 - 💬 Ask me about **Powershell, react, vue ...**
 - 🌈 In my spare time: I do art-coding and Gaming.
 - 🎯 2021 Goal: Contribute more to Open Source projects.
@@ -48,7 +48,7 @@ https://4lain.vercel.app/
 <br />
 <br />
 
-📺 YouTube [Channel](https://youtube.com/4L4IN)
+📺 YouTube [Channel](https://youtube.com/alainBuild)
 
 ---
 
@@ -65,16 +65,16 @@ https://4lain.vercel.app/
 Stay tuned ...
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://rigtweak.com/blog)
+➡️ [more blog posts...](https://www.alainBuild.com/blog)
 
 ---
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=kkawaki&label=Profile%20views&color=0e75b6&style=flat" alt="kkawaki" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainBuild&label=Profile%20views&color=0e75b6&style=flat" alt="alainBuild" /> </p>
 <details>
   <summary>GitHub Stats 🎫</summary>
-  <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=kkawaki&show_icons=true&hide_border=true" /></p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkawaki" alt="kkawaki" /></a> </p>
+  <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=alainBuild&show_icons=true&hide_border=true" /></p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainBuild" alt="alainBuild" /></a> </p>
 </details>
 <details>
   <summary>Streak🔥</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkawaki&" alt="kkawaki" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainBuild&" alt="alainBuild" /></p>
 </details>
