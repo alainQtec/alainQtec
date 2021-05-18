@@ -17,7 +17,7 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="4L4IN Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 https://4lain.vercel.app/
-[<img src="https://now-playing-4lain.vercel.app/api/spotify-playing" alt="4L4IN Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-4lain.vercel.app/api/spotify-playing" alt="alainD3v Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 -->
 
 ### Connect with me:
@@ -67,13 +67,13 @@ Stay tuned ...
 ➡️ [more blog posts...](https://www.alainBuild.com/blog)
 
 ---
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainBuild&label=Profile%20views&color=0e75b6&style=flat" alt="alainBuild" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainD3v&label=Profile%20views&color=0e75b6&style=flat" alt="alainD3v" /> </p>
 <details>
   <summary>GitHub Stats 🎫</summary>
-  <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=alainBuild&show_icons=true&hide_border=true" /></p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainBuild" alt="alainBuild" /></a> </p>
+  <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=alainD3v&show_icons=true&hide_border=true" /></p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainD3v" alt="alainD3v" /></a> </p>
 </details>
 <details>
   <summary>Streak🔥</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainBuild&" alt="alainBuild" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainD3v&" alt="alainD3v" /></p>
 </details>
