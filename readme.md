@@ -47,7 +47,7 @@ https://4lain.vercel.app/
 <br />
 <br />
 
-📺 YouTube [Channel](https://youtube.com/alainBuild)
+📺 YouTube [Channel](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about)
 
 ---
 
