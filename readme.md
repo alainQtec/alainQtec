@@ -53,18 +53,15 @@ https://4lain.vercel.app/
 
 ### 📕 Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
 <!--
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+* Link 1
+* Link 2
+* Link 3
 -->
 Stay tuned ...
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.alainBuild.com/blog)
+➡️ [more blog posts...](https://www.alainD3v.com/blog)
 
 ---
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainD3v&label=Profile%20views&color=0e75b6&style=flat" alt="alainD3v" /> </p>
