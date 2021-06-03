@@ -1,3 +1,3 @@
 # Attribution
 
-"Icons by [AlainQtec](https://github.com/AlainQtec) from [flaticon](https://www.flaticon.com)"
+"These cool icons are from [flaticon.com](https://www.flaticon.com)"
