@@ -27,8 +27,8 @@ https://4lain.vercel.app/
 <a href="https://linkedin.com/in/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflowuserid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codesandboxusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandboxusername" height="30" width="40" /></a>
-<a href="https://fb.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebookusername" height="30" width="40" /></a>
-<a href="https://instagram.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagramusername" height="30" width="40" /></a>
+<a href="https://fb.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/facebook.png" alt="AlainQtec" height="30" width="40" /></a>
+<a href="https://instagram.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/instagram.png" alt="instagramusername" height="30" width="40" /></a>
 <a href="https://dribbble.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
 <a href="https://medium.com/@AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/youtube.png" alt="youtubechannel" height="40" width="50" /></a>
