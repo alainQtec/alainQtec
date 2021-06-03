@@ -23,7 +23,7 @@ https://4lain.vercel.app/
 ### Connect with me:
 <p align="left">
 <a href="https://dev.to/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
-<a href="https://twitter.com/AlainQtec" target="blank"><img align="center" src="https://simple-icons.github.io/simple-icons-website/icons/twitter.svg" alt="4L4INdev" height="30" width="40" /></a>
+<a href="https://twitter.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/twitter.png" alt="AlainQtec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflowuserid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codesandboxusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandboxusername" height="30" width="40" /></a>
@@ -31,7 +31,7 @@ https://4lain.vercel.app/
 <a href="https://instagram.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagramusername" height="30" width="40" /></a>
 <a href="https://dribbble.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
 <a href="https://medium.com/@AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/youtube.png" alt="youtubechannel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/youtube.png" alt="youtubechannel" height="40" width="50" /></a>
 </p>
 <br />
 
