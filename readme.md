@@ -31,10 +31,7 @@ https://4lain.vercel.app/
 <a href="https://instagram.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagramusername" height="30" width="40" /></a>
 <a href="https://dribbble.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
 <a href="https://medium.com/@AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtubechannel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtubechannel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcodeusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcodeusername" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/geeksforgeeksusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="geeksforgeeksusername" height="30" width="40" /></a>
-<a href="/rssfeedurl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="rssfeedurl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtubechannel" height="30" width="40" /></a>
 </p>
 <br />
 
