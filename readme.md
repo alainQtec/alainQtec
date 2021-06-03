@@ -1,12 +1,12 @@
 
-<!--<h2 align="center">Hi there 👋, I'm <a href="https://www.alainBuild.com/about/">Alain</a></h2>-->
+<!--<h2 align="center">Hi there 👋, I'm <a href="https://www.AlainQtec.com/about/">Alain</a></h2>-->
 <h3 align="Left">Alain</h3>
 
-[![Website](https://img.shields.io/website?label=BuildInProgress..&style=for-the-badge&url=https%3A%2F%2FalainD3v)](https://alainD3v.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/alainD3v?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainD3v&screen_name=alainD3v)
+[![Website](https://img.shields.io/website?label=BuildInProgress..&style=for-the-badge&url=https%3A%2F%2FAlainQtec)](https://AlainQtec.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AlainQtec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainD3v&screen_name=AlainQtec)
 
 - 😄 Pronouns: He/Him
-- 📝 I regularly write articles on my [blogs](https://www.alainBuild.com/blogs)
+- 📝 I regularly write articles on my [blogs](https://www.AlainQtec.com/blogs)
 - 💬 Ask me about **Powershell, react, vue ...**
 - 🌈 In my spare time: I do art-coding and Gaming.
 - 🎯 2021 Goal: Contribute more to Open Source projects.
@@ -15,22 +15,22 @@
 
 <!--
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="4L4IN Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-AlainQtec.vercel.app/api/spotify-playing" alt="AlainQtec Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 https://4lain.vercel.app/
-[<img src="https://now-playing-4lain.vercel.app/api/spotify-playing" alt="alainD3v Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-AlainQtec.vercel.app/api/spotify-playing" alt="AlainQtec Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 -->
 
 ### Connect with me:
 <p align="left">
-<a href="https://dev.to/alaindev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
-<a href="https://twitter.com/4L4INdev" target="blank"><img align="center" src="https://simple-icons.github.io/simple-icons-website/icons/twitter.svg" alt="4L4INdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedinusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
+<a href="https://dev.to/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
+<a href="https://twitter.com/AlainQtec" target="blank"><img align="center" src="https://simple-icons.github.io/simple-icons-website/icons/twitter.svg" alt="4L4INdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflowuserid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codesandboxusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandboxusername" height="30" width="40" /></a>
-<a href="https://fb.com/facebookusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebookusername" height="30" width="40" /></a>
-<a href="https://instagram.com/instagramusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagramusername" height="30" width="40" /></a>
-<a href="https://dribbble.com/dribbleusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
-<a href="https://medium.com/@mediumusernaewith@" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
+<a href="https://fb.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebookusername" height="30" width="40" /></a>
+<a href="https://instagram.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagramusername" height="30" width="40" /></a>
+<a href="https://dribbble.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
+<a href="https://medium.com/@AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/youtubechannel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtubechannel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcodeusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcodeusername" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/geeksforgeeksusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="geeksforgeeksusername" height="30" width="40" /></a>
@@ -61,16 +61,16 @@ https://4lain.vercel.app/
 Stay tuned ...
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.alainD3v.com/blog)
+➡️ [more blog posts...](https://www.AlainQtec.com/blog)
 
 ---
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainD3v&label=Profile%20views&color=0e75b6&style=flat" alt="alainD3v" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=AlainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="AlainQtec" /> </p>
 <details>
   <summary>GitHub Stats 🎫</summary>
   <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=alainD3v&show_icons=true&hide_border=true" /></p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainD3v" alt="alainD3v" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlainQtec" alt="AlainQtec" /></a> </p>
 </details>
 <details>
   <summary>Streak🔥</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainD3v&" alt="alainD3v" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlainQtec&" alt="AlainQtec" /></p>
 </details>
