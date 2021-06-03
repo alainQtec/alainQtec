@@ -22,8 +22,8 @@ https://4lain.vercel.app/
 
 ### Connect with me:
 <p align="left">
-<a href="https://dev.to/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
-<a href="https://twitter.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/twitter.png" alt="AlainQtec" height="30" width="40" /></a>
+<a href="https://dev.to/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.2username" height="30" width="50" /></a>
+<a href="https://twitter.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/twitter.png" alt="AlainQtec" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflowuserid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codesandboxusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandboxusername" height="30" width="40" /></a>
