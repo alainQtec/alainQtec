@@ -13,12 +13,14 @@
 - 📫 Mail me: [**Outlook**](mailto:alain.1337dev@outlook.com) or [**Gmail**](mailto:alainhervem@gmail.com)
 
 
-<!--
+
 ### Spotify Playing 🎧
 [<img src="https://now-playing-AlainQtec.vercel.app/api/spotify-playing" alt="AlainQtec Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-https://4lain.vercel.app/
+
+[![Spotify](https://4l4in.vercel.app/api/spotify)](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
+
 [<img src="https://now-playing-AlainQtec.vercel.app/api/spotify-playing" alt="AlainQtec Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
--->
+
 
 ### Connect with me:
 <p align="left">
