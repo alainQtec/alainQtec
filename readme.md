@@ -15,11 +15,9 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-AlainQtec.vercel.app/api/spotify-playing" alt="AlainQtec Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://4l4in.vercel.app/api/spotify" alt="AlainQtec Spotify Playing" width="350" />](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja))
 
 [![Spotify](https://4l4in.vercel.app/api/spotify)](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
-
-[<img src="https://now-playing-AlainQtec.vercel.app/api/spotify-playing" alt="AlainQtec Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
 ### Connect with me:
