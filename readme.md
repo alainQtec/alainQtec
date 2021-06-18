@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotifynowplaying-mu.vercel.app/api/spotifynowplaying" alt="alainQtec Spotify" width="350" />](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
+[<img src="https://spotifynowplaying-mu.vercel.app/api/spotify.py" alt="alainQtec Spotify" width="350" />](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
 
 ### Connect with me:
 <p align="left">
