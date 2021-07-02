@@ -19,16 +19,16 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://dev.to/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.2username" height="30" width="50" /></a>
-<a href="https://twitter.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/twitter.png" alt="AlainQtec" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedinusername" height="40" width="40" /></a>
+<a href="https://dev.to/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
+<a href="https://twitter.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/twitter.png" alt="alainQtec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflowuserid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codesandboxusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandboxusername" height="30" width="40" /></a>
-<a href="https://fb.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/facebook.png" alt="AlainQtec" height="40" width="50" /></a>
-<a href="https://instagram.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/instagram.png" alt="AlainQtec" height="40" width="50" /></a>
-<a href="https://dribbble.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dribbleusername" height="40" width="50" /></a>
+<a href="https://fb.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/facebook.png" alt="alainQtec" height="30" width="40" /></a>
+<a href="https://instagram.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/instagram.png" alt="alainQtec" height="40" width="50" /></a>
+<a href="https://dribbble.com/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
 <a href="https://medium.com/@AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/youtube.png" alt="youtubechannel" height="40" width="50" /></a>
+<a href="https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/youtube.png" alt="youtubechannel" height="30" width="40" /></a>
 </p>
 <br />
 
@@ -55,16 +55,16 @@
 Stay tuned ...
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.AlainQtec.com/blog)
+➡️ [more blog posts...](https://www.alainQtec.com/blog)
 
 ---
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=AlainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="AlainQtec" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=AlainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p>
 <details>
   <summary>GitHub Stats 🎫</summary>
   <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=AlainQtec&show_icons=true&hide_border=true" /></p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlainQtec" alt="AlainQtec" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlainQtec" alt="alainQtec" /></a> </p>
 </details>
 <details>
   <summary>Streak🔥</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlainQtec&" alt="AlainQtec" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlainQtec&" alt="alainQtec" /></p>
 </details>
