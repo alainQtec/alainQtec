@@ -46,16 +46,13 @@
 ---
 
 ### 📕 Latest Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!--
+<!-- BLOG-POST-LIST:START
 * Link 1
 * Link 2
 * Link 3
--->
-Stay tuned ...
-<!-- BLOG-POST-LIST:END -->
-
 ➡️ [more blog posts...](https://www.alainQtec.com/blog)
+ 
+BLOG-POST-LIST:END -->
 
 ---
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=AlainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p>
