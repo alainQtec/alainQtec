@@ -1,12 +1,12 @@
 
-<!--<h2 align="center">Hi there 👋, I'm <a href="https://www.AlainQtec.com/about/">Alain</a></h2>-->
+<!--<h2 align="center">Hi there 👋, I'm <a href="http://www.alainQtec.com/about/">Alain</a></h2>-->
 <h3 align="Left">Alain</h3>
 
-[![Website](https://img.shields.io/website?label=BuildInProgress..&style=for-the-badge&url=https%3A%2F%2FAlainQtec)](https://www.AlainQtec.com)
+[![Website](https://img.shields.io/website?label=BuildInProgress..&style=for-the-badge&url=https%3A%2F%2FAlainQtec)](http://www.alainQtec.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AlainQtec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAlainQtec&screen_name=AlainQtec)
 
 - 😄 Pronouns: He/Him
-- 📝 I regularly write articles on my [blogs](https://www.AlainQtec.com/blogs)
+- 📝 I regularly write articles on my [blogs](http://www.AlainQtec.com)
 - 💬 Ask me about **Powershell, react, vue ...**
 - 🌈 In my spare time: I do art-coding and Gaming.
 - 🎯 2021 Goal: Contribute more to Open Source projects.
