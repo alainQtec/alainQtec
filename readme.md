@@ -2,7 +2,7 @@
 <!--<h2 align="center">Hi there 👋, I'm <a href="http://www.alainQtec.com/about/">Alain</a></h2>-->
 <h3 align="Left">Alain</h3>
 
-[![Website](https://img.shields.io/website?label=Website..&style=for-the-badge&url=https%3A%2F%2FAlainQtec)](http://alainQtec.com)
+[![Website](https://img.shields.io/website?label=Website..&style=for-the-badge&url=https%3A%2F%2FAlainQtec)](http://alainqtec.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alainQtec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=alainQtec)
 
 - 😄 Pronouns: He/Him
