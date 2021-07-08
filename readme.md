@@ -1,8 +1,6 @@
+<h3 align="Left">Howdy 👋, I'm Alain</h3>
 
-<!--<h2 align="center">Hi there 👋, I'm <a href="http://www.alainQtec.com/about/">Alain</a></h2>-->
-<h3 align="Left">Alain</h3>
-
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=flat-square&up_color=Green&up_message=Online&url=https%3A%2F%2FalainQtec.com)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2FalainQtec.com)](https://www.alainQtec.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alainQtec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=alainQtec)
 
 - 😄 Pronouns: He/Him
