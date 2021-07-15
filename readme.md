@@ -15,7 +15,7 @@
 [<img src="https://spotifynowplaying-mu.vercel.app" alt="alainQtec Spotify" width="350" />](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
 -->
 
-### Connect with me:
+### Connect:
 <p align="left">
 <a href="https://dev.to/AlainQtec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
 <a href="https://twitter.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/twitter.png" alt="alainQtec" height="30" width="40" /></a>
