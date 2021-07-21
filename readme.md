@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - 📝 I regularly write articles on my [blogs](http://www.alainQtec.com)
 - 💬 Ask me about **Powershell, react, vue ...**
-- 🌈 In my spare time: I do art-coding and Gaming.
+- 🌈 When I'm not coding: I like sketching and Gaming.
 - 🎯 2021 Goal: Contribute more to Open Source projects.
 - 📫 Mail me: [**Outlook**](mailto:alain.1337dev@outlook.com) or [**Gmail**](mailto:alainhervem@gmail.com)
 
