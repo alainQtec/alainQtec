@@ -18,14 +18,14 @@
 ### How to reach me:
 <p align="left">
 <a href="https://dev.to/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
-<a href="https://twitter.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/twitter.svg" alt="alainQtec" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
+<a href="https://twitter.com/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/twitter.svg" alt="alainQtec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/c/zautomakerz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codesandboxusername" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/code-sandbox.svg" alt="codesandboxusername" height="30" width="40" /></a>
-<a href="https://fb.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/facebook.svg" alt="alainQtec" height="35" width="35" /></a>
-<a href="https://instagram.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/instagram.svg" alt="alainQtec" height="35" width="35" /></a>
-<a href="https://dribbble.com/AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
-<a href="https://medium.com/@AlainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
+<a href="https://fb.com/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/facebook.svg" alt="alainQtec" height="35" width="35" /></a>
+<a href="https://instagram.com/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/instagram.svg" alt="alainQtec" height="35" width="35" /></a>
+<a href="https://dribbble.com/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
+<a href="https://medium.com/@alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/youtube.svg" alt="youtubechannel" height="35" width="40" /></a>
 </p>
 <br />
