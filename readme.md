@@ -10,10 +10,11 @@
 - 🎯 2021 Goal: Contribute more to Open Source projects.
 - 📫 Mail me: [**Outlook**](mailto:alain.1337dev@outlook.com) or [**Gmail**](mailto:alainhervem@gmail.com)
 
-<!--
+
 ### Spotify Playing 🎧
+
 [<img src="https://spotifynowplaying-mu.vercel.app" alt="alainQtec Spotify" width="350" />](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
--->
+
 
 ### How to reach me:
 <p align="left">
@@ -65,13 +66,13 @@
 BLOG-POST-LIST:END -->
 
 ---
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=AlainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p>
 <details>
   <summary>GitHub Stats 🎫</summary>
-  <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=AlainQtec&no-bg=true&show_icons=true&hide_border=true" /></p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlainQtec&no-bg=true" alt="alainQtec" /></a> </p>
+  <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=alainQtec&show_icons=true&hide_border=true" /></p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a> </p>
 </details>
 <details>
   <summary>Streak🔥</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlainQtec&" alt="alainQtec" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainQtec&" alt="alainQtec" /></p>
 </details>
