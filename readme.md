@@ -68,7 +68,7 @@ BLOG-POST-LIST:END -->
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=AlainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p>
 <details>
   <summary>GitHub Stats 🎫</summary>
-  <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=AlainQtec&show_icons=true&hide_border=true" /></p>
+  <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=AlainQtec&no-bg=true&show_icons=true&hide_border=true" /></p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlainQtec&no-bg=true" alt="alainQtec" /></a> </p>
 </details>
 <details>
