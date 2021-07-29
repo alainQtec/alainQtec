@@ -67,12 +67,17 @@ BLOG-POST-LIST:END -->
 
 ---
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p>
+
+### Stats ❯
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=alainQtec&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainQtec&" alt="alainQtec" />
+</a>
+
 <details>
-  <summary>GitHub Stats 🎫</summary>
-  <p><img align="left" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=alainQtec&show_icons=true&hide_border=true" /></p>
+  <summary><h3>❯ More</h3></summary>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a> </p>
-</details>
-<details>
-  <summary>Streak🔥</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainQtec&" alt="alainQtec" /></p>
 </details>
