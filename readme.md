@@ -11,10 +11,10 @@
 - 📫 Mail me: [**Outlook**](mailto:alain.1337dev@outlook.com) or [**Gmail**](mailto:alainhervem@gmail.com)
 
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
 [<img src="https://spotifynowplaying-mu.vercel.app" alt="alainQtec Spotify" width="350" />](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
-
+ -->
 
 ### How to reach me:
 <p align="left">
