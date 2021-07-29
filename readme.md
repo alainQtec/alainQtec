@@ -78,6 +78,6 @@ BLOG-POST-LIST:END -->
 </a>
 
 <details>
-  <summary><h3>❯ More</h3></summary>
+  <summary><h3>More ❯</h3></summary>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a> </p>
 </details>
