@@ -73,7 +73,7 @@ BLOG-POST-LIST:END -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=alainQtec&show_icons=true&hide_border=true" width="450" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainQtec&" alt="alainQtec" width="450" />
 </a>
 
