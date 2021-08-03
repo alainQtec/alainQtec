@@ -17,12 +17,13 @@
  -->
 
 ### How to reach me:
+
 <p align="left">
 <a href="https://dev.to/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
 <a href="https://twitter.com/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/twitter.svg" alt="alainQtec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/c/zautomakerz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
-<a href="https://codepen.io/alainqtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/Codepen.io.png" alt="codepen" height="30" width="40" /></a>
+<a href="https://codepen.io/alainqtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/Codepen.io.png" alt="codepen" height="40" width="40" /></a>
 <a href="https://fb.com/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/facebook.svg" alt="alainQtec" height="35" width="35" /></a>
 <a href="https://instagram.com/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/instagram.svg" alt="alainQtec" height="35" width="35" /></a>
 <a href="https://dribbble.com/alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
@@ -57,6 +58,7 @@
 ---
 
 ### 📕 Latest Blogs posts
+
 <!-- BLOG-POST-LIST:START
 * Link 1
 * Link 2
