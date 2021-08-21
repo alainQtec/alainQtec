@@ -72,12 +72,22 @@ BLOG-POST-LIST:END -->
 
 ### Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Alain's GitHub Stats" src="https://readmestts-git-main-al4in.vercel.app/api?username=alainQtec&show_icons=true&hide_border=true" width="450" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainQtec&" alt="alainQtec" width="450" />
-</a> -->
+<table>
+<thead>
+  <tr>
+    <td>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alainQtec" alt="Alain's GitHub stats" width="450" />
+   </a>
+   </td>
+    <td>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alainQtec&" alt="Alain's GitHub streak" width="450" />
+   </a>
+   </td>
+  </tr>
+</thead>
+</table>
 
 <details>
   <summary></summary>
