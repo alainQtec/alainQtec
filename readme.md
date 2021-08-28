@@ -57,7 +57,7 @@
 
 ---
 
-### 📕 Latest Blogs posts
+### 📕 Latest posts
 
 <!-- BLOG-POST-LIST:START
 * Link 1
