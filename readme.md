@@ -5,7 +5,6 @@
 
 - 😄 Pronouns: He/Him
 - 📝 I regularly write articles on my [blogs](https://alainqtec.github.io/blog/)
-- 💬 Ask me about **web dev't & IT ops ...**
 - 🌈 When I'm not coding, I like sketching and Gaming.
 - 🎯 2021 Goal: Contribute more to Open Source projects.
 - 📫 Mail me: [**Outlook**](mailto:alain.1337dev@outlook.com) or [**Gmail**](mailto:alainhervem@gmail.com)
