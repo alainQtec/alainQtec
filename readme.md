@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/alainQtec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=alainQtec)
 
 - 😄 Pronouns: He/Him
-- 📝 I regularly write articles on my [blogs](https://alainqtec.github.io/blog/)
+- 📝 I regularly write articles on my [blogs](https://alainqtec.com/blog/)
 - 🌈 When I'm not coding, I'm sketching or Gaming.
 - 🎯 2021 Goal: Contribute more to Open Source projects.
 - 📫 Mail me: [**Outlook**](mailto:alain.1337dev@outlook.com) or [**Gmail**](mailto:alainhervem@gmail.com)
