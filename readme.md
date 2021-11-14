@@ -68,7 +68,7 @@ BLOG-POST-LIST:END -->
 
 ### Stats
 
-<table style="border: 0px; margin: 0; padding: 0; font-size: .7rem;>
+<table style="border: 0px; padding: 0; font-size: .7rem;>
 <thead>
   <tr>
     <td>
