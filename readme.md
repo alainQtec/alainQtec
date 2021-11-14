@@ -87,5 +87,6 @@ BLOG-POST-LIST:END -->
 
 <details>
   <summary></summary>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a> </p>Nothing to see here, just my gamification to keep me hooked to coding.
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a></p>
+ <p align="center" style="text-align: center; font-size: .7rem;">Nothing to see here, just my gamification to keep me hooked on coding.</p>
 </details>
