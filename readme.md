@@ -68,10 +68,10 @@ BLOG-POST-LIST:END -->
 
 ### Stats
 
-<table style="border: 0px; padding: 0; font-size: .7rem;>
+<table style="border: 0px; padding: 0; font-size: .7rem;">
 <thead>
-  <tr>
-    <td>
+  <tr style="border: 0;">
+    <td style="border: 0;">
    <a href="https://github.com/anuraghazra/github-readme-stats">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=alainQtec" alt="Alain's GitHub stats" width="450" />
    </a>
