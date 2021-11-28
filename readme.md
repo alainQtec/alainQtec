@@ -68,6 +68,7 @@ BLOG-POST-LIST:END -->
 
 ### Stats
 
+<div align="center">
 <table style="border:0px solid transparent; cellpadding="0"; cellspacing="0"; padding: 0; font-size: .7rem;">
   <tr>
     <td>
@@ -80,7 +81,7 @@ BLOG-POST-LIST:END -->
    </td>
   </tr>
 </table>
-
+</div>
 <details>
   <summary></summary>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a></p>
