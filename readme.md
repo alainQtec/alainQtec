@@ -1,11 +1,14 @@
-<h3 align="Left">Howdy 👋, I'm 𝙰𝚕𝚊𝚒𝚗</h3>
+<h3 align="Left">Howdy, I'm 𝙰𝚕𝚊𝚒𝚗 👋</h3>
+
+Tech-savvy programmer and a Machine learning enthusiast
 
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2FalainQtec.com)](https://www.alainQtec.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alainQtec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=alainQtec)
 
 - 😄 Pronouns: He/Him
-<!-- - 📝 I regularly write articles on my <a href="https://alainqtec.com/blog/" title="𝚊𝚕𝚊𝚒𝚗𝚀𝚝𝚎𝚌.𝚌𝚘𝚖/𝚋𝚕𝚘𝚐  &̴   𝚌𝚢𝚋𝚛𝚝𝚛𝚡.𝚌𝚘𝚖">blogs</a> -->
+- 🔭 I’m currently working on [Machine learning](https://alainqtec.com/projects/machinelearning) and [web development](https://alainqtec.com/projects/webdesign)
 - 🎯 2021 Goal: Contribute more to Open Source projects.
+<!-- - 📝 I regularly write articles on my <a href="https://alainqtec.com/blog/" title="𝚊𝚕𝚊𝚒𝚗𝚀𝚝𝚎𝚌.𝚌𝚘𝚖/𝚋𝚕𝚘𝚐  &̴   𝚌𝚢𝚋𝚛𝚝𝚛𝚡.𝚌𝚘𝚖">blogs</a> -->
 
 <!-- ### Spotify Playing 🎧
 
