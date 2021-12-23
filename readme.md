@@ -5,12 +5,18 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/alainQtec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=alainQtec)
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on [Machine learning](https://alainqtec.com/projects/machinelearning) and [web development](https://alainqtec.com/projects/webdesign)
+<!-- - 🔭 I’m currently working on [Machine learning](https://alainqtec.com/projects/machinelearning) and [web development](https://alainqtec.com/projects/webdesign) -->
 - 🎯 2021 Goal: Contribute more to Open Source projects.
 <!-- - 📝 I regularly write articles on my <a href="https://alainqtec.com/blog/" title="𝚊𝚕𝚊𝚒𝚗𝚀𝚝𝚎𝚌.𝚌𝚘𝚖/𝚋𝚕𝚘𝚐  &̴   𝚌𝚢𝚋𝚛𝚝𝚛𝚡.𝚌𝚘𝚖">blogs</a> -->
 
-<!-- ### Spotify Playing 🎧
+<!-- ### Digital footprint
 
+Few self-built live tools i use everyday :
+
+- Feedback/Chat platform : Namelss
+- Url-shortener : Chootu
+- Kanban task tracking board: Kanbang -->
+<!--
 [<img src="https://spotifynowplaying-mu.vercel.app" alt="alainQtec Spotify" width="350" />](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
  -->
 
