@@ -95,3 +95,6 @@ BLOG-POST-LIST:END -->
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a></p>
  <p align="center" style="text-align: center; font-size: .7rem;">Nothing to see here, just my gamification to keep me hooked on coding.</p>
 </details>
+<!--
+"Nobody exists on purpose, Nobody belongs anywhere, we’re all going to die." - Stop taking everything so seriously in life, in the end, it all means nothing because all you have is yourself and what you choose to do with your life. Stop waiting for things to get handed to you, go out and get it. Morty 
+-->
