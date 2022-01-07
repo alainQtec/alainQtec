@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: He/Him
 <!-- - 🔭 I’m currently working on [Machine learning](https://alainqtec.com/projects/machinelearning) and [web development](https://alainqtec.com/projects/webdesign) -->
-- 🎯 2021 Goal: Contribute more to Open Source projects.
+- 🎯 2022 Goal: Contribute more to Open Source projects.
 <!-- - 📝 I regularly write articles on my <a href="https://alainqtec.com/blog/" title="𝚊𝚕𝚊𝚒𝚗𝚀𝚝𝚎𝚌.𝚌𝚘𝚖/𝚋𝚕𝚘𝚐  &̴   𝚌𝚢𝚋𝚛𝚝𝚛𝚡.𝚌𝚘𝚖">blogs</a> -->
 
 <!-- ### Digital footprint
