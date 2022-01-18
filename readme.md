@@ -72,7 +72,7 @@ Few self-built live tools i use everyday :
 BLOG-POST-LIST:END -->
 
 ---
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p>
+<!-- <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
 
 ### Stats
 
