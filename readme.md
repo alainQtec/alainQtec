@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in all things to do with automation
-- 🌱 I’m currently learning [Go](https://alainQtec.com/blog/learning-go-to-use-with-hugo-challenges-and-hacks)
+- 🌱 I’m currently [learning Go](https://alainQtec.com/blog/learning-go-to-use-with-hugo-challenges-and-hacks)
 - 🎯 2022 Goal: Contribute to Open Source projects.
 - 💞️ I’m looking to collaborate .NET core bases tools and basically all repos pinned bellow.
 
