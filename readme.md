@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/alainQtec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=alainQtec)
 
 - 😄 Pronouns: He/Him
-- 👀 I’m interested in all things to do with automation
+- 👀 I’m interested in all things to do with .NET and automation
 - 🌱 I’m currently [learning Go](https://alainQtec.com/blog/learning-go-to-use-with-hugo-challenges-and-hacks)
 - 🎯 2022 Goal: Contribute to Open Source projects.
 <!-- - 💞️ I’m looking to collaborate .NET core bases tools and basically all repos pinned bellow. -->
