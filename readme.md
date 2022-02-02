@@ -66,13 +66,10 @@ Few self-built live tools I(can) use everyday :
 
 ### 📕 Latest posts
 
-<!-- BLOG-POST-LIST:START
-* Link 1
-* Link 2
-* Link 3
-➡️ [more blog posts...](https://www.alainQtec.com/blog)
- 
-BLOG-POST-LIST:END -->
+<!-- 
+### Ins~ adv
+while(ᴀʟɪᴠᴇ){ riskItAll(); /* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 */ }
+ -->
 
 ---
 <!-- <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
