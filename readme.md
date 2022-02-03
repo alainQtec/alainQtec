@@ -45,7 +45,7 @@ Few self-built live tools I(can) use everyday :
 </p>
 <br />
 
-### Stats: Languages and tools:
+### 𝐒𝐭𝐚𝐭𝐬: Languages and tools:
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/alainQtec">
@@ -92,7 +92,7 @@ Few self-built live tools I(can) use everyday :
 
 ---
 
-### 📕 Latest posts
+### 📕 𝐋𝐚𝐭𝐞𝐬𝐭 𝐩𝐨𝐬𝐭𝐬
 
 ---
 <!-- <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
