@@ -4,13 +4,19 @@
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Up&url=https%3A%2F%2FalainQtec.com)](https://www.alainQtec.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alainQtec?color=1DA1F2&logo=twitter&label=Follow&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=)
 
+<p align="left">
+<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%231E82FF&size=22&duration=5001&vCenter=true&width=700&height=49&lines=Wubba+lubba+dub+dub!;I'm+a+College+undergrad%2C+tech+savvy+dude.+++;An+aspiring+programmer+and+Machine+Learning+Enthusiast.)](https://git.io/typing-svg"> 
+</p>
+ 
+<h3>Several bits about me 🧑</h3>
+
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in all things to do with .NET and automation
 - 🌱 I’m currently [learning Go](https://alainQtec.com/blog/learning-go-to-use-with-hugo-challenges-and-hacks)
-- 🎯 2022 Goal: Contribute to Open Source projects.
+- 🎯 2022 Goal: Contribute to Open Source :octocat: projects.
 <!-- - 💞️ I’m looking to collaborate .NET core bases tools and basically all repos pinned bellow. -->
 
-<!-- - 🔭 I’m currently working on [Machine learning](https://alainqtec.com/projects/machinelearning) and [web development](https://alainqtec.com/projects/webdesign) -->
+<!-- - ☕ I’m currently working on [Machine learning](https://alainqtec.com/projects/machinelearning) and [web development](https://alainqtec.com/projects/webdesign) -->
 <!-- - 📝 I regularly write articles on my <a href="https://alainqtec.com/blog/" title="𝚊𝚕𝚊𝚒𝚗𝚀𝚝𝚎𝚌.𝚌𝚘𝚖/𝚋𝚕𝚘𝚐  &̴   𝚌𝚢𝚋𝚛𝚝𝚛𝚡.𝚌𝚘𝚖">blogs</a> -->
 
 <!-- ### Digital footprint
@@ -39,7 +45,14 @@ Few self-built live tools I(can) use everyday :
 </p>
 <br />
 
-### Languages and tools:
+### Stats: Languages and tools:
+
+<!-- markdownlint-disable MD033 -->
+<a href="https://github.com/alainQtec">
+ <img src="https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only" width="280" align="right" alt="Alain's Dev Cards"/>
+ <img src="https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only" width="280" align="right" alt="Alain's Dev Cards"/>
+</a>
+<!-- markdownlint-enable MD033 -->
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <p align="left">
@@ -66,11 +79,6 @@ Few self-built live tools I(can) use everyday :
 
 ### 📕 Latest posts
 
-<!-- 
-### Ins~ adv
-while(ᴀʟɪᴠᴇ){ riskItAll(); /* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 */ }
- -->
-
 ---
 <!-- <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
 
@@ -91,13 +99,23 @@ while(ᴀʟɪᴠᴇ){ riskItAll(); /* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲ�
 </table>
 </div>
 <details>
-  <summary></summary>
+  <summary>:video_game: :eyeglasses:</summary>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a></p>
- <p align="center" style="text-align: center; font-size: .7rem;">Nothing to see here, just my gamification to keep me hooked on coding.</p>
+ <p align="center" style="text-align: center; font-size: .7rem;">Nothing to see here, just gamifications to keep me hooked on coding.</p>
 </details>
-<!--
-☕
 
-"Nobody exists on purpose, Nobody belongs anywhere, we’re all going to die." - Stop taking everything so seriously in life, in the end, it all means nothing because all you have is yourself and what you choose to do with your life. Stop waiting for things to get handed to you, go out and get it. - Morty 
-# probably the most powerful Quote I ever heard from a TV show!
--->
+<details>
+    <summary>&#9889 <b>:pushpin:</b></summary><br/>
+<p align="center">
+ <h3>Some inspirational quotes that keep me going.</h3>
+   <ul>
+    <li><b>Talk is cheap.Show me the code.</b> - Linus Torvalds</li>
+    <li><b><i>while(ᴀʟɪᴠᴇ){ risk(Create, Transform, Destroy) };</i></b></br>
+    /* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 ⁽ᶠⁱᶜᵗⁱᵒⁿᵃˡ ᶜʰᵃʳᵃᶜᵗᵉʳ⁾ */</li>
+    <li>"<b>Any fool can write code that a computer can understand.</b> Good programmers write code that humans can understand."</li>
+    <li>
+    <b>"Nobody exists on purpose, Nobody belongs anywhere, we’re all going to die."</b> - We're just humans; we're nothing exceptional. Stop taking everything in life too seriously; in the end, it all  means nothing because all you have is you and what you choose to do with your life. Stop waiting for things to be handed to you; just, go and do it!
+    </li>
+   </ul>
+</p>
+</details>
