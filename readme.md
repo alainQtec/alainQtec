@@ -49,8 +49,8 @@ Few self-built live tools I(can) use everyday :
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/alainQtec">
- <img src="https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only" width="280" align="right" alt="Alain's Dev Cards"/>
- <img src="https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only" width="280" align="right" alt="Alain's Dev Cards"/>
+ <img src="https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only" width="280" align="right" alt="Languages"/>
+ <img src="https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only" width="280" align="right" alt="Overview Alain Gitstats"/>
 </a>
 <!-- markdownlint-enable MD033 -->
 
@@ -71,7 +71,7 @@ Few self-built live tools I(can) use everyday :
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p><br /><br />
 
-### :octocat: Github
+### :octocat: Github ⁽ˢᵘᵐᵐᵃʳʸ⁾
 
 <div align="center">
 <table style="border:0px solid transparent; cellpadding="0"; cellspacing="0"; padding: 0; font-size: .7rem;">
@@ -106,9 +106,9 @@ Few self-built live tools I(can) use everyday :
 <details>
     <summary>&#9889 <b>:pushpin:</b></summary><br/>
 <p align="center">
- <h3>Some inspirational quotes that keep me going.</h3>
+ <h3>𝐒𝐨𝐦𝐞 𝐢𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐪𝐮𝐨𝐭𝐞𝐬 𝐭𝐡𝐚𝐭 𝐤𝐞𝐞𝐩 𝐦𝐞 𝐠𝐨𝐢𝐧𝐠.</h3>
    <ul>
-    <li><b>Talk is cheap.Show me the code.</b> - Linus Torvalds</li>
+    <li><b>Talk is cheap. Show me the code.</b> - Linus Torvalds</li>
     <li><b><i>while(ᴀʟɪᴠᴇ){ risk(Create, Transform, Destroy) };</i></b></br>
     /* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 ⁽ᶠⁱᶜᵗⁱᵒⁿᵃˡ ᶜʰᵃʳᵃᶜᵗᵉʳ⁾ */</li>
     <li>"<b>Any fool can write code that a computer can understand.</b> Good programmers write code that humans can understand."</li>
