@@ -8,7 +8,7 @@
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%231E82FF&size=22&duration=5001&vCenter=true&width=700&height=49&lines=Wubba+lubba+dub+dub!;I'm+a+College+undergrad%2C+tech+savvy+dude.+++;An+aspiring+programmer+and+Machine+Learning+Enthusiast.)](https://git.io/typing-svg"> 
 </p>
  
-<h3>Several bits about me 🧑</h3>
+<h3>𝐒𝐞𝐯𝐞𝐫𝐚𝐥 𝐛𝐢𝐭𝐬 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 🧑</h3>
 
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in all things to do with .NET and automation
@@ -108,12 +108,12 @@ Few self-built live tools I(can) use everyday :
 <p align="center">
  <h3>𝐒𝐨𝐦𝐞 𝐢𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐪𝐮𝐨𝐭𝐞𝐬 𝐭𝐡𝐚𝐭 𝐤𝐞𝐞𝐩 𝐦𝐞 𝐠𝐨𝐢𝐧𝐠.</h3>
    <ul>
-    <li><b>Talk is cheap. Show me the code.</b> - Linus Torvalds</li>
-    <li><b><i>while(ᴀʟɪᴠᴇ){ risk(Create, Transform, Destroy) };</i></b></br>
+    <li><b>𝐓𝐚𝐥𝐤 𝐢𝐬 𝐜𝐡𝐞𝐚𝐩. 𝐒𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐞 𝐜𝐨𝐝𝐞.</b> - Linus Torvalds</li>
+    <li>𝐰𝐡𝐢𝐥𝐞(ᴀʟɪᴠᴇ){ 𝐫𝐢𝐬𝐤(𝐂𝐫𝐞𝐚𝐭𝐞, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦, 𝐃𝐞𝐬𝐭𝐫𝐨𝐲) }</br>
     /* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 ⁽ᶠⁱᶜᵗⁱᵒⁿᵃˡ ᶜʰᵃʳᵃᶜᵗᵉʳ⁾ */</li>
-    <li>"<b>Any fool can write code that a computer can understand.</b> Good programmers write code that humans can understand."</li>
+    <li>"𝐀𝐧𝐲 𝐟𝐨𝐨𝐥 𝐜𝐚𝐧 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝.𝐆𝐨𝐨𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫𝐬 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐡𝐮𝐦𝐚𝐧𝐬 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝."</li>
     <li>
-    <b>"Nobody exists on purpose, Nobody belongs anywhere, we’re all going to die."</b> - We're just humans; we're nothing exceptional. Stop taking everything in life too seriously; in the end, it all  means nothing because all you have is you and what you choose to do with your life. Stop waiting for things to be handed to you; just, go and do it!
+    <b>"𝐍𝐨𝐛𝐨𝐝𝐲 𝐞𝐱𝐢𝐬𝐭𝐬 𝐨𝐧 𝐩𝐮𝐫𝐩𝐨𝐬𝐞, 𝐍𝐨𝐛𝐨𝐝𝐲 𝐛𝐞𝐥𝐨𝐧𝐠𝐬 𝐚𝐧𝐲𝐰𝐡𝐞𝐫𝐞, 𝐰𝐞’𝐫𝐞 𝐚𝐥𝐥 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐝𝐢𝐞."</b> - We're just humans; we're nothing exceptional. Stop taking everything in life too seriously; in the end, it all  means nothing because all you have is you and what you choose to do with your life. Stop waiting for things to be handed to you; just, go and do it!
     </li>
    </ul>
 </p>
