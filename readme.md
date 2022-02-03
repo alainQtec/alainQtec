@@ -1,5 +1,4 @@
-<h3 align="Left">Hello, world 👋</h3>
-<!-- Tech-savvy programmer and a Machine learning enthusiast -->
+<h3 align="Left">Hi there , I'm Alain 👋</h3>
 
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Up&url=https%3A%2F%2FalainQtec.com)](https://www.alainQtec.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alainQtec?color=1DA1F2&logo=twitter&label=Follow&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=)
@@ -95,7 +94,7 @@ Few self-built live tools I(can) use everyday :
 ### 📕 𝐋𝐚𝐭𝐞𝐬𝐭 𝐩𝐨𝐬𝐭𝐬
 
 ---
-<!-- <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
+<!-- 𝐂𝐫𝐞𝐚𝐭𝐞, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦, 𝐃𝐞𝐬𝐭𝐫𝐨𝐲 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
 
 <details>
   <summary>:video_game: :eyeglasses:</summary>
@@ -104,13 +103,13 @@ Few self-built live tools I(can) use everyday :
 </details>
 
 <details>
-    <summary>&#9889 <b>:pushpin:</b></summary><br/>
+    <summary><b>:pushpin:</b> 𝐰𝐡𝐢𝐥𝐞(ᴀʟɪᴠᴇ){ 𝐫𝐢𝐬𝐤𝐈𝐭𝐀𝐥𝐥() }</br>
+    /* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 ⁽ᶠⁱᶜᵗⁱᵒⁿᵃˡ ᶜʰᵃʳᵃᶜᵗᵉʳ⁾ */
+ </summary><br/>
 <p align="center">
  <h3>𝐒𝐨𝐦𝐞 𝐢𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐪𝐮𝐨𝐭𝐞𝐬 𝐭𝐡𝐚𝐭 𝐤𝐞𝐞𝐩 𝐦𝐞 𝐠𝐨𝐢𝐧𝐠.</h3>
    <ul>
     <li><b>𝐓𝐚𝐥𝐤 𝐢𝐬 𝐜𝐡𝐞𝐚𝐩. 𝐒𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐞 𝐜𝐨𝐝𝐞.</b> - Linus Torvalds</li>
-    <li>𝐰𝐡𝐢𝐥𝐞(ᴀʟɪᴠᴇ){ 𝐫𝐢𝐬𝐤(𝐂𝐫𝐞𝐚𝐭𝐞, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦, 𝐃𝐞𝐬𝐭𝐫𝐨𝐲) }</br>
-    /* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 ⁽ᶠⁱᶜᵗⁱᵒⁿᵃˡ ᶜʰᵃʳᵃᶜᵗᵉʳ⁾ */</li>
     <li>"𝐀𝐧𝐲 𝐟𝐨𝐨𝐥 𝐜𝐚𝐧 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝. 𝐆𝐨𝐨𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫𝐬 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐡𝐮𝐦𝐚𝐧𝐬 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝."</li>
     <li>
     <b>"𝐍𝐨𝐛𝐨𝐝𝐲 𝐞𝐱𝐢𝐬𝐭𝐬 𝐨𝐧 𝐩𝐮𝐫𝐩𝐨𝐬𝐞, 𝐍𝐨𝐛𝐨𝐝𝐲 𝐛𝐞𝐥𝐨𝐧𝐠𝐬 𝐚𝐧𝐲𝐰𝐡𝐞𝐫𝐞, 𝐰𝐞’𝐫𝐞 𝐚𝐥𝐥 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐝𝐢𝐞."</b> - We're just humans; we're nothing exceptional. Stop taking everything in life too seriously; in the end, it all  means nothing because all you have is you and what you choose to do with your life. Stop waiting for things to be handed to you; just, go and do it!
