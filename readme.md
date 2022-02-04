@@ -99,6 +99,8 @@ Few self-built live tools I(can) use everyday :
 
 ### 📕 𝐋𝐚𝐭𝐞𝐬𝐭 𝐩𝐨𝐬𝐭𝐬
 
+{%- links_to_posts -%}
+
 ---
 <!-- 𝐂𝐫𝐞𝐚𝐭𝐞, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦, 𝐃𝐞𝐬𝐭𝐫𝐨𝐲 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
 
