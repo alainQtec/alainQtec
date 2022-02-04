@@ -87,6 +87,12 @@ Few self-built live tools I(can) use everyday :
 </table>
 </div>
 
+<details>
+  <summary>:video_game: :eyeglasses:</summary>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a></p>
+ <p align="center" style="text-align: center; font-size: .7rem;">Nothing to see here, just gamifications to keep me hooked on coding.</p>
+</details>
+
 📺 YouTube [Channel](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about)
 
 ---
@@ -95,12 +101,6 @@ Few self-built live tools I(can) use everyday :
 
 ---
 <!-- 𝐂𝐫𝐞𝐚𝐭𝐞, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦, 𝐃𝐞𝐬𝐭𝐫𝐨𝐲 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
-
-<details>
-  <summary>:video_game: :eyeglasses:</summary>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a></p>
- <p align="center" style="text-align: center; font-size: .7rem;">Nothing to see here, just gamifications to keep me hooked on coding.</p>
-</details>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
