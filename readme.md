@@ -102,6 +102,8 @@ Few self-built live tools I(can) use everyday :
  <p align="center" style="text-align: center; font-size: .7rem;">Nothing to see here, just gamifications to keep me hooked on coding.</p>
 </details>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+
 <details>
     <summary><b>:pushpin:</b> 𝐰𝐡𝐢𝐥𝐞(ᴀʟɪᴠᴇ){ 𝐫𝐢𝐬𝐤𝐈𝐭𝐀𝐥𝐥() }</br>
     /* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 ⁽ᶠⁱᶜᵗⁱᵒⁿᵃˡ ᶜʰᵃʳᵃᶜᵗᵉʳ⁾ */
