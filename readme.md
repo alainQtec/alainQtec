@@ -114,8 +114,9 @@ Few self-built live tools I(can) use everyday :
     <li><b>"You don’t have to be great at something to start, but you have to start to be great at something."</b> – Zig Ziglar"</li>
     <li><b>"𝐓𝐚𝐥𝐤 𝐢𝐬 𝐜𝐡𝐞𝐚𝐩. 𝐒𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐞 𝐜𝐨𝐝𝐞."</b> - Linus Torvalds</li>
     <li>"𝐀𝐧𝐲 𝐟𝐨𝐨𝐥 𝐜𝐚𝐧 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝. 𝐆𝐨𝐨𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫𝐬 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐡𝐮𝐦𝐚𝐧𝐬 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝."</li>
-    <li>
-    <b>"𝐍𝐨𝐛𝐨𝐝𝐲 𝐞𝐱𝐢𝐬𝐭𝐬 𝐨𝐧 𝐩𝐮𝐫𝐩𝐨𝐬𝐞, 𝐍𝐨𝐛𝐨𝐝𝐲 𝐛𝐞𝐥𝐨𝐧𝐠𝐬 𝐚𝐧𝐲𝐰𝐡𝐞𝐫𝐞, 𝐰𝐞’𝐫𝐞 𝐚𝐥𝐥 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐝𝐢𝐞."</b> - We're just humans; we're nothing exceptional. Stop taking everything in life too seriously; in the end, it all  means nothing because all you have is you and what you choose to do with your life. Stop waiting for things to be handed to you; just, go and do it!
+    <li>"The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience."-Mark Manson</li>
+    <li>"You have power over your mind — not outside events. Realize this and you will find great strength." — Marcus Aurelius</li>
+    <li><b>"𝐍𝐨𝐛𝐨𝐝𝐲 𝐞𝐱𝐢𝐬𝐭𝐬 𝐨𝐧 𝐩𝐮𝐫𝐩𝐨𝐬𝐞, 𝐍𝐨𝐛𝐨𝐝𝐲 𝐛𝐞𝐥𝐨𝐧𝐠𝐬 𝐚𝐧𝐲𝐰𝐡𝐞𝐫𝐞, 𝐰𝐞’𝐫𝐞 𝐚𝐥𝐥 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐝𝐢𝐞."</b> - We're just humans; we're nothing exceptional. Stop taking everything in life too seriously; in the end, it all  means nothing because all you have is you and what you choose to do with your life. Stop waiting for things to be handed to you; just, go and do it!
     </li>
    </ul>
 </p>
