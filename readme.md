@@ -111,12 +111,12 @@ Few self-built live tools I(can) use everyday :
 <p align="center">
  <h3>𝐨𝐭𝐡𝐞𝐫 𝐢𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐪𝐮𝐨𝐭𝐞𝐬 𝐭𝐡𝐚𝐭 𝐤𝐞𝐞𝐩 𝐦𝐞 𝐠𝐨𝐢𝐧𝐠.</h3>
    <ul>
-    <li><b>"You don’t have to be great at something to start, but you have to start to be great at something."</b> – Zig Ziglar"</li>
+    <li><b>"чσ𝚞 𝚍σ𝚗’𝚝 𝚑α𝚟є 𝚝σ вє 𝚐𝚛єα𝚝 α𝚝 𝚜σ𝚖є𝚝𝚑í𝚗𝚐 𝚝σ 𝚜𝚝α𝚛𝚝, в𝚞𝚝 чσ𝚞 𝚑α𝚟є 𝚝σ 𝚜𝚝α𝚛𝚝 𝚝σ вє 𝚐𝚛єα𝚝 α𝚝 𝚜σ𝚖є𝚝𝚑í𝚗𝚐."</b> – Zig Ziglar"</li>
     <li><b>"𝐓𝐚𝐥𝐤 𝐢𝐬 𝐜𝐡𝐞𝐚𝐩. 𝐒𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐞 𝐜𝐨𝐝𝐞."</b> - Linus Torvalds</li>
-    <li>"𝐀𝐧𝐲 𝐟𝐨𝐨𝐥 𝐜𝐚𝐧 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝. 𝐆𝐨𝐨𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫𝐬 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐡𝐮𝐦𝐚𝐧𝐬 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝."</li>
-    <li>"The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience."-Mark Manson</li>
-    <li>"You have power over your mind — not outside events. Realize this and you will find great strength." — Marcus Aurelius</li>
-    <li><b>"𝐍𝐨𝐛𝐨𝐝𝐲 𝐞𝐱𝐢𝐬𝐭𝐬 𝐨𝐧 𝐩𝐮𝐫𝐩𝐨𝐬𝐞, 𝐍𝐨𝐛𝐨𝐝𝐲 𝐛𝐞𝐥𝐨𝐧𝐠𝐬 𝐚𝐧𝐲𝐰𝐡𝐞𝐫𝐞, 𝐰𝐞’𝐫𝐞 𝐚𝐥𝐥 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐝𝐢𝐞."</b> - We're just humans; we're nothing exceptional. Stop taking everything in life too seriously; in the end, it all  means nothing because all you have is you and what you choose to do with your life. Stop waiting for things to be handed to you; just, go and do it!
+    <li>"𝐀𝐧𝐲 𝐟𝐨𝐨𝐥 𝐜𝐚𝐧 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝. 𝐆𝐨𝐨𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫𝐬 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐡𝐮𝐦𝐚𝐧𝐬 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝".</li>
+    <li>"𝚃𝚑𝚎 𝚍𝚎𝚜𝚒𝚛𝚎 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚙𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚜 𝚒𝚝𝚜𝚎𝚕𝚏 𝚊 𝚗𝚎𝚐𝚊𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎. 𝙰𝚗𝚍, 𝚙𝚊𝚛𝚊𝚍𝚘𝚡𝚒𝚌𝚊𝚕𝚕𝚢, 𝚝𝚑𝚎 𝚊𝚌𝚌𝚎𝚙𝚝𝚊𝚗𝚌𝚎 𝚘𝚏 𝚘𝚗𝚎'𝚜 𝚗𝚎𝚐𝚊𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚜 𝚒𝚝𝚜𝚎𝚕𝚏 𝚊 𝚙𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎". -𝙼𝚊𝚛𝚔 𝙼𝚊𝚗𝚜𝚘𝚗</li>
+    <li>"𝚈𝚘𝚞 𝚑𝚊𝚟𝚎 𝚙𝚘𝚠𝚎𝚛 𝚘𝚟𝚎𝚛 𝚢𝚘𝚞𝚛 𝚖𝚒𝚗𝚍 — 𝚗𝚘𝚝 𝚘𝚞𝚝𝚜𝚒𝚍𝚎 𝚎𝚟𝚎𝚗𝚝𝚜. 𝚁𝚎𝚊𝚕𝚒𝚣𝚎 𝚝𝚑𝚒𝚜 𝚊𝚗𝚍 𝚢𝚘𝚞 𝚠𝚒𝚕𝚕 𝚏𝚒𝚗𝚍 𝚐𝚛𝚎𝚊𝚝 𝚜𝚝𝚛𝚎𝚗𝚐𝚝𝚑". — Marcus Aurelius</li>
+    <li><b>"𝐍𝐨𝐛𝐨𝐝𝐲 𝐞𝐱𝐢𝐬𝐭𝐬 𝐨𝐧 𝐩𝐮𝐫𝐩𝐨𝐬𝐞, 𝐍𝐨𝐛𝐨𝐝𝐲 𝐛𝐞𝐥𝐨𝐧𝐠𝐬 𝐚𝐧𝐲𝐰𝐡𝐞𝐫𝐞, 𝐰𝐞’𝐫𝐞 𝐚𝐥𝐥 𝐠𝐨𝐢𝐧𝐠 𝐭𝐨 𝐝𝐢𝐞".</b> - We're just humans; we're nothing exceptional. Stop taking everything in life too seriously; in the end, it all  means nothing because all you have is you and what you choose to do with your life. Stop waiting for things to be handed to you; just, go and do it!
     </li>
    </ul>
 </p>
