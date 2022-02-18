@@ -10,7 +10,7 @@
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝙷𝚎/𝙷𝚒𝚖
 - 👀 𝙸’𝚖 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚊𝚕𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚘 𝚍𝚘 𝚠𝚒𝚝𝚑 .𝙽𝙴𝚃 𝚊𝚗𝚍 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 [𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙶𝚘](https://alainQtec.com/blog/learning-go-to-use-with-hugo-challenges-and-hacks)
-- 🎯 2０22 𝙶𝚘𝚊𝚕: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
+- 🎯 2022 𝙶𝚘𝚊𝚕: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
 <!-- - 💞️ 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 .𝙽𝙴𝚃 𝚌𝚘𝚛𝚎 𝚋𝚊𝚜𝚎𝚜 𝚝𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚋𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢 𝚊𝚕𝚕 𝚛𝚎𝚙𝚘𝚜 𝚙𝚒𝚗𝚗𝚎𝚍 𝚋𝚎𝚕𝚕𝚘𝚠. -->
 
 <!-- - ☕ 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐](https://alainqtec.com/projects/machinelearning) 𝚊𝚗𝚍 [𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝](https://alainqtec.com/projects/webdesign) -->
@@ -90,7 +90,7 @@
  <p align="center" style="text-align: center; font-size: .7rem;">𝚃𝚑𝚎𝚛𝚎'𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐 𝚝𝚘 𝚜𝚎𝚎 𝚑𝚎𝚛𝚎, 𝚓𝚞𝚜𝚝 𝚐𝚊𝚖𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚝𝚘 𝚔𝚎𝚎𝚙 𝚖𝚎 𝚑𝚘𝚘𝚔𝚎𝚍 𝚘𝚗 𝚌𝚘𝚍𝚒𝚗𝚐.</p>
 </details>
 
-📺 YouTube [Channel](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about)
+📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about)
 
 ---
 
@@ -99,7 +99,7 @@
 {%- links_to_posts -%}
 
 ---
-<!-- 𝐂𝐫𝐞𝐚𝐭𝐞, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦, 𝐃𝐞𝐬𝐭𝐫𝐨𝐲 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
+<!-- <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
@@ -110,7 +110,7 @@
 <p align="center">
  <h3>𝙾𝐭𝐡𝐞𝐫 𝚒𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝚚𝐮𝐨𝐭𝐞𝐬 𝚝𝐡𝐚𝐭 𝚔𝐞𝐞𝐩 𝐦𝐞 𝚐𝐨𝐢𝐧𝐠.</h3>
    <ul>
-    <li><b>"𝚢𝚘𝚞 𝚍𝚘𝚗'𝚝 𝚑𝚊𝚟𝚎 𝚝𝚘 𝚋𝚎 𝚐𝚛𝚎𝚊𝚝 𝚊𝚝 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚝𝚘 𝚜𝚝𝚊𝚛𝚝, 𝚋𝚞𝚝 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚘 𝚜𝚝𝚊𝚛𝚝 𝚝𝚘 𝚋𝚎 𝚐𝚛𝚎𝚊𝚝 𝚊𝚝 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐."</b> – Zig Ziglar"</li>
+    <li>"𝚢𝚘𝚞 𝚍𝚘𝚗'𝚝 𝚑𝚊𝚟𝚎 𝚝𝚘 𝚋𝚎 𝚐𝚛𝚎𝚊𝚝 𝚊𝚝 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚝𝚘 𝚜𝚝𝚊𝚛𝚝, 𝚋𝚞𝚝 𝚢𝚘𝚞 𝚑𝚊𝚟𝚎 𝚝𝚘 𝚜𝚝𝚊𝚛𝚝 𝚝𝚘 𝚋𝚎 𝚐𝚛𝚎𝚊𝚝 𝚊𝚝 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐." – Zig Ziglar"</li>
     <li><b>"𝐓𝐚𝐥𝐤 𝐢𝐬 𝐜𝐡𝐞𝐚𝐩. 𝐒𝐡𝐨𝐰 𝐦𝐞 𝐭𝐡𝐞 𝐜𝐨𝐝𝐞."</b> - Linus Torvalds</li>
     <li>"𝐀𝐧𝐲 𝐟𝐨𝐨𝐥 𝐜𝐚𝐧 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐚 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝. 𝐆𝐨𝐨𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫𝐬 𝐰𝐫𝐢𝐭𝐞 𝐜𝐨𝐝𝐞 𝐭𝐡𝐚𝐭 𝐡𝐮𝐦𝐚𝐧𝐬 𝐜𝐚𝐧 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝".</li>
     <li>"𝚃𝚑𝚎 𝚍𝚎𝚜𝚒𝚛𝚎 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚙𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚜 𝚒𝚝𝚜𝚎𝚕𝚏 𝚊 𝚗𝚎𝚐𝚊𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎. 𝙰𝚗𝚍, 𝚙𝚊𝚛𝚊𝚍𝚘𝚡𝚒𝚌𝚊𝚕𝚕𝚢, 𝚝𝚑𝚎 𝚊𝚌𝚌𝚎𝚙𝚝𝚊𝚗𝚌𝚎 𝚘𝚏 𝚘𝚗𝚎'𝚜 𝚗𝚎𝚐𝚊𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚒𝚜 𝚒𝚝𝚜𝚎𝚕𝚏 𝚊 𝚙𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎". -𝙼𝚊𝚛𝚔 𝙼𝚊𝚗𝚜𝚘𝚗</li>
