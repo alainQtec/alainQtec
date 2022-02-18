@@ -5,6 +5,7 @@
 <p align="left"> 
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%234F8BD7&size=17&duration=4958&width=650&height=49&lines=Wubba+lubba+dub+dub!;I'm+a+self-driven+tech+savvy+dude+with+a+knack+for+Coding+%26+design.+;An+aspiring+programmer+%26+College+undergrad;I+Love+exploring+new+technologies+and+always+open+to+challenges.;...">
 </p>
+
 <h3>𝐒𝐞𝐯𝐞𝐫𝐚𝐥 𝐛𝐢𝐭𝐬 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 👨‍💻</h3>
 
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝙷𝚎/𝙷𝚒𝚖
