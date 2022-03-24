@@ -42,7 +42,7 @@
 </p>
 <br />
 
-### 𝐒𝐭𝐚𝐭𝐬: 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
+### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
 
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/alainQtec">
