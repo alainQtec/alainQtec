@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Up&url=https%3A%2F%2FalainQtec.com)](https://www.alainQtec.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alainQtec?color=1DA1F2&logo=twitter&label=Follow&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=)
-<p align="left"> 
+<!-- <p align="left"> 
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%234F8BD7&size=17&duration=4958&width=650&height=49&lines=Wubba+lubba+dub+dub!;I'm+a+self-driven+tech+savvy+dude+with+a+knack+for+Coding+%26+design.+;An+aspiring+programmer+%26+College+undergrad;I+Love+exploring+new+technologies+and+always+open+to+challenges.;...">
-</p>
+</p> -->
 
 <h3>𝐒𝐞𝐯𝐞𝐫𝐚𝐥 𝐛𝐢𝐭𝐬 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 👨‍💻</h3>
 
