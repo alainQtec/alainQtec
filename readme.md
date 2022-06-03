@@ -52,16 +52,17 @@
 <!-- markdownlint-enable MD033 -->
 
 <p align="left">
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://github.com/alainQtec/AlainQtec/blob/main/Images/rustaceans-community.png" alt="rust" width="50" height="40"/></a>
+<a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+<a href="https://docs.microsoft.com/en-us/powershell?" target="_blank"><img src="https://raw.githubusercontent.com/alainQtec/AlainQtec/main/Images/powershell.svg" alt="PowerShell" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
 <a href="https://couchdb.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/></a>
  <a href="https://www.11ty.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eleventy/eleventy-original.svg" alt="eleventy" width="40" height="40"/></a>
- <a href="https://csharp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+ <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
  <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/></a>
  <a href="https://gohugo.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40"/></a>
- <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Ts" width="40" height="40"/></a>
-<a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
