@@ -85,9 +85,8 @@
 </p>
 <br /><br />
 
-### :octocat: 𝙶𝚒𝚝𝚑𝚞𝚋 ⁽ˢᵘᵐᵐᵃʳʸ⁾
 <details>
-<summary>:video_game: :eyeglasses:</summary>
+<summary>:octocat: :video_game: :eyeglasses:</summary>
 <div align="center">
 <table style="border:0px solid transparent; cellpadding="0"; cellspacing="0"; padding: 0; font-size: .7rem;">
   <tr>
@@ -102,12 +101,15 @@
   </tr>
 </table>
 </div>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a></p>
- <p align="center" style="text-align: center; font-size: .7rem;">𝚃𝚑𝚎𝚛𝚎'𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐 𝚝𝚘 𝚜𝚎𝚎 𝚑𝚎𝚛𝚎, 𝚓𝚞𝚜𝚝 𝚐𝚊𝚖𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚝𝚘 𝚔𝚎𝚎𝚙 𝚖𝚎 𝚑𝚘𝚘𝚔𝚎𝚍 𝚘𝚗 𝚌𝚘𝚍𝚒𝚗𝚐.</p>
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alainQtec" alt="alainQtec" /></a></p>
+<p align="center" style="text-align: center; font-size: .7rem;">𝚃𝚑𝚎𝚛𝚎'𝚜 𝚗𝚘𝚝𝚑𝚒𝚗𝚐 𝚝𝚘 𝚜𝚎𝚎 𝚑𝚎𝚛𝚎, 𝚓𝚞𝚜𝚝 𝚐𝚊𝚖𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 𝚝𝚘 𝚔𝚎𝚎𝚙 𝚖𝚎 𝚑𝚘𝚘𝚔𝚎𝚍 𝚘𝚗 𝚌𝚘𝚍𝚒𝚗𝚐.</p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p>
 </details>
 
-📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about)
-
+<details>
+<summary>Posts :eyeglasses:</summary>
+ 
 ---
 
 ### 📕 𝐋𝐚𝐭𝐞𝐬𝐭 𝐩𝐨𝐬𝐭𝐬
@@ -115,7 +117,10 @@
 {%- links_to_posts -%}
 
 ---
-<!-- <p align="centre"> <img src="https://komarev.com/ghpvc/?username=alainQtec&label=Profile%20views&color=0e75b6&style=flat" alt="alainQtec" /> </p> -->
+
+📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about)
+
+</details>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
