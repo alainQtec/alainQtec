@@ -18,7 +18,7 @@
 </p>
 
 <!-- | <a href="https://matrix.to/#/@alainQtec:matrix.org"><code>@alainQte:matrix.org</code></a> https://matrix.org/docs/guides/getting-involved -->
-<!-- <p align="left"> 
+<!-- <p align="left">
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%234F8BD7&size=17&duration=4958&width=650&height=49&lines=Wubba+lubba+dub+dub!;I'm+a+self-driven+tech+savvy+dude+with+a+knack+for+Coding+%26+design.+;An+aspiring+programmer+%26+College+undergrad;I+Love+exploring+new+technologies+and+always+open+to+challenges.;...">
 </p> -->
 
@@ -41,7 +41,7 @@
 <!-- ### 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝚏𝚘𝚘𝚝𝚙𝚛𝚒𝚗𝚝
 
 𝙵𝚎𝚠 𝚜𝚎𝚕𝚏-𝚋𝚞𝚒𝚕𝚝 𝚕𝚒𝚟𝚎 𝚝𝚘𝚘𝚕𝚜 𝙸 𝚞𝚜𝚎 𝚎𝚟𝚎𝚛𝚢𝚍𝚊𝚢 :
-- 𝙵𝚎𝚎𝚍𝚋𝚊𝚌𝚔/𝙲𝚑𝚊𝚝 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : (I Shall build mine.)
+- 𝙲𝚑𝚊𝚝 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : (I Shall build mine.)
 - 𝚄𝚛𝚕-𝚜𝚑𝚘𝚛𝚝𝚎𝚗𝚎𝚛 : (I Shall build mine.)
 <!--
 [<img src="https://spotifynowplaying-mu.vercel.app" alt="alainQtec Spotify" width="350" />](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
@@ -117,8 +117,8 @@
 <details>
 <summary>Posts 📘</summary>
 
-{%- links_to_posts -%}
-
+{%- links_to_posts-ca -%}
+{%- links_to_posts-cb -%}
 
 📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about)
 </details>
@@ -129,10 +129,12 @@
  </summary><br/>
  <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
+<i>❝The more you know, the more you realize you know nothing.— Socrates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+<details>
+    <summary>:pushpin:</summary><br/>
+    ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+</details>
 </details>
 <!-- Used Fonts from https://www.coolfontsgenerator.com/ ST2 -->
