@@ -1,21 +1,43 @@
-<h3 align="Left">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 , 𝙸'𝚖 𝙰𝚕𝚊𝚒𝚗 👋</h3>
+<h2 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 , 𝙸'𝚖 𝙰𝚕𝚊𝚒𝚗 👋</h1>
 
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Up&url=https%3A%2F%2FalainQtec.com)](https://www.alainQtec.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/alainQtec?color=1DA1F2&logo=twitter&label=Follow&style=for-the-badge)](https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=)
+<p align="center">
+<a href="https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=" target="blank"><img src="https://img.shields.io/badge/-@alainQtec-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+<a href="https://dev.to/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/c/zautomakerz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
+<a href="https://codepen.io/alainqtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/Codepen.io.png" alt="codepen" height="35" width="35" /></a>
+<a href="https://fb.com/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/facebook.svg" alt="alainQtec" height="35" width="35" /></a>
+<a href="https://instagram.com/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/instagram.svg" alt="alainQtec" height="35" width="35" /></a>
+<a href="https://dribbble.com/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
+<a href="https://medium.com/@alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/youtube.svg" alt="youtube" height="35" width="40" /></a>
+</p>
+
+<p align="center">
+<a href="mailto:alain.1337dev@outlook.com"><code>alain.1337dev@outlook.com</code></a> │ <a href="https://keybase.io/alainQtec/pgp_keys.asc?fingerprint=KEYGOESHERE"><code>UN KN OW N</code></a> | <sub><img src="https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Up&url=https%3A%2F%2FalainQtec.com" /></sub></a>
+</p>
+
+<!-- | <a href="https://matrix.to/#/@alainQtec:matrix.org"><code>@alainQte:matrix.org</code></a> https://matrix.org/docs/guides/getting-involved -->
 <!-- <p align="left"> 
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%234F8BD7&size=17&duration=4958&width=650&height=49&lines=Wubba+lubba+dub+dub!;I'm+a+self-driven+tech+savvy+dude+with+a+knack+for+Coding+%26+design.+;An+aspiring+programmer+%26+College+undergrad;I+Love+exploring+new+technologies+and+always+open+to+challenges.;...">
 </p> -->
 
-<h3>𝐒𝐞𝐯𝐞𝐫𝐚𝐥 𝐛𝐢𝐭𝐬 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 👨‍💻</h3>
+<!-- About Section -->
+<details>
+  <summary>𝐒𝐞𝐯𝐞𝐫𝐚𝐥 𝐛𝐢𝐭𝐬 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 👨‍💻</summary>
 
+<!-- <img align="right" width="400" src="https://avatars.githubusercontent.com/u/79479952?v=4" alt="Alain Herve" /> -->
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝙷𝚎/𝙷𝚒𝚖
-- 👀 𝙸’𝚖 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚊𝚕𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚘 𝚍𝚘 𝚠𝚒𝚝𝚑 .𝙽𝙴𝚃 𝚊𝚗𝚍 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗
-<!-- - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 [𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙶𝚘](https://alainQtec.com/blog/learning-go-to-use-with-hugo-challenges-and-hacks) -->
-- 🎯 2022 𝙶𝚘𝚊𝚕: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
-<!-- - 💞️ 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 .𝙽𝙴𝚃 𝚌𝚘𝚛𝚎 𝚋𝚊𝚜𝚎𝚜 𝚝𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚋𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢 𝚊𝚕𝚕 𝚛𝚎𝚙𝚘𝚜 𝚙𝚒𝚗𝚗𝚎𝚍 𝚋𝚎𝚕𝚕𝚘𝚠. -->
 
-<!-- - ☕ 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐](https://alainqtec.com/projects/machinelearning) 𝚊𝚗𝚍 [𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝](https://alainqtec.com/projects/webdesign) -->
+- 👀 𝙸'𝚖 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚊𝚕𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚘 𝚍𝚘 𝚠𝚒𝚝𝚑 .𝙽𝙴𝚃 𝚊𝚗𝚍 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚘𝚗
+
+<!-- - 🌱 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 [𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙶𝚘](https://alainQtec.com/blog/learning-go-to-use-with-hugo-challenges-and-hacks) -->
+- 🎯 2022 𝙶𝚘𝚊𝚕: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
+
+<!-- - 💞️ 𝙸'𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 .𝙽𝙴𝚃 𝚌𝚘𝚛𝚎 𝚋𝚊𝚜𝚎𝚜 𝚝𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚋𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢 𝚊𝚕𝚕 𝚛𝚎𝚙𝚘𝚜 𝚙𝚒𝚗𝚗𝚎𝚍 𝚋𝚎𝚕𝚕𝚘𝚠. -->
+<!-- - ☕ 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐](https://alainqtec.com/projects/machinelearning) 𝚊𝚗𝚍 [𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝](https://alainqtec.com/projects/webdesign) -->
 <!-- - 📝 𝙸 𝚛𝚎𝚐𝚞𝚕𝚊𝚛𝚕𝚢 𝚠𝚛𝚒𝚝𝚎 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 𝚖𝚢 <a href="https://alainqtec.com/blog/" title="𝚊𝚕𝚊𝚒𝚗𝚀𝚝𝚎𝚌.𝚌𝚘𝚖/𝚋𝚕𝚘𝚐  &̴   𝚌𝚢𝚋𝚛𝚝𝚛𝚡.𝚌𝚘𝚖">𝚋𝚕𝚘𝚐𝚜</a> -->
+</details>
 
 <!-- ### 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝚏𝚘𝚘𝚝𝚙𝚛𝚒𝚗𝚝
 
@@ -26,24 +48,9 @@
 [<img src="https://spotifynowplaying-mu.vercel.app" alt="alainQtec Spotify" width="350" />](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
  -->
 
-### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎.
-
-<p align="left">
-<a href="https://dev.to/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
-<a href="https://twitter.com/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/twitter.svg" alt="alainQtec" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/c/zautomakerz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
-<a href="https://codepen.io/alainqtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/Codepen.io.png" alt="codepen" height="35" width="35" /></a>
-<a href="https://fb.com/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/facebook.svg" alt="alainQtec" height="35" width="35" /></a>
-<a href="https://instagram.com/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/instagram.svg" alt="alainQtec" height="35" width="35" /></a>
-<a href="https://dribbble.com/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
-<a href="https://medium.com/@alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/youtube.svg" alt="youtube" height="35" width="40" /></a>
-</p>
+<details>
+  <summary>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:</summary>
 <br />
-
-### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
-
 <!-- markdownlint-disable MD033 -->
 <a href="https://github.com/alainQtec">
  <img src="https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only" width="280" align="right" alt="Languages"/>
