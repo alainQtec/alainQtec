@@ -132,9 +132,6 @@
 <i>❝The more you know, the more you realize you know nothing.— Socrates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
  </a>
-<details>
-    <summary>:pushpin:</summary><br/>
-    ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
-</details>
+<!-- <details><summary>@</summary><br/><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Joke" /></details> -->
 </details>
 <!-- Used Fonts from https://www.coolfontsgenerator.com/ ST2 -->
