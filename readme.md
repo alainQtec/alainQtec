@@ -1,8 +1,11 @@
 <h2 align="center">𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 , 𝙸'𝚖 𝙰𝚕𝚊𝚒𝚗 👋</h1>
 
 <p align="center">
-<a href="https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=" target="blank"><img src="https://img.shields.io/badge/-@alainQtec-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-<a href="https://dev.to/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/dev-dot-to.svg" alt="dev.2username" height="30" width="40" /></a>
+<a href="https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=" target="blank"><img src="https://img.shields.io/badge/-@alainQtec-00acee?style=flat&logo=Twitter&logoColor=white" height="23" alt="twitter.com/alainQtec" /></a>
+<a href="https://alainQtec.com" target="blank"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Up&url=https%3A%2F%2FalainQtec.com" height="23" alt="alainQtec.com" /></a>
+</p>
+<p align="center">
+<a href="https://dev.to/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/dev-dot-to.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/linkedin.svg" alt="linkedinusername" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/c/zautomakerz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflowuserid" height="30" width="40" /></a>
 <a href="https://codepen.io/alainqtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/Codepen.io.png" alt="codepen" height="35" width="35" /></a>
@@ -14,7 +17,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:alain.1337dev@outlook.com"><code>alain.1337dev@outlook.com</code></a> │ <a href="https://keybase.io/alainQtec/pgp_keys.asc?fingerprint=KEYGOESHERE"><code>UN KN OW N</code></a> | <sub><img src="https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Up&url=https%3A%2F%2FalainQtec.com" /></sub></a>
+<a href="mailto:alain.1337dev@outlook.com"><code>alain.1337dev@outlook.com</code></a> │ <a href="https://keybase.io/alainQtec/pgp_keys.asc?fingerprint=KEYGOESHERE"><code>keybase.io/alainQtec</code></a>
 </p>
 
 <!-- | <a href="https://matrix.to/#/@alainQtec:matrix.org"><code>@alainQte:matrix.org</code></a> https://matrix.org/docs/guides/getting-involved -->
