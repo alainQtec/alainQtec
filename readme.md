@@ -121,6 +121,7 @@
 <summary>Posts 📘</summary>
 
 {%- links_to_posts-ca -%}
+
 {%- links_to_posts-cb -%}
 
 📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about)
@@ -130,11 +131,6 @@
     <summary><b>:pushpin:</b> while(ᴀʟɪᴠᴇ){ riskItAll() }</br>
     /* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 ⁽ᶠⁱᶜᵗⁱᵒⁿᵃˡ ᶜʰᵃʳᵃᶜᵗᵉʳ⁾ */
  </summary><br/>
- <a href='https://github.com/marketplace/actions/quote-readme'>
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
  </a>
-<!-- <details><summary>@</summary><br/><img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Joke" /></details> -->
 </details>
 <!-- Used Fonts from https://www.coolfontsgenerator.com/ ST2 -->
