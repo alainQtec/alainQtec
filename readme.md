@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalainQtec&screen_name=" target="blank"><img src="https://img.shields.io/badge/-@alainQtec-00acee?style=flat&logo=Twitter&logoColor=white" height="23" alt="twitter.com/alainQtec" /></a>
-<a href="https://alainQtec.com" target="blank"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Up&url=https%3A%2F%2FalainQtec.com" height="23" alt="alainQtec.com" /></a>
+<a href="https://alainQtec.dev" target="blank"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=Down&style=for-the-badge&up_color=Green&up_message=Up&url=https%3A%2F%2FalainQtec.dev" height="23" alt="alainQtec.dev" /></a>
 </p>
 <p align="center">
 <a href="https://dev.to/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/dev-dot-to.svg" height="30" width="40" /></a>
