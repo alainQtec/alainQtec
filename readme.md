@@ -42,10 +42,6 @@
 </details>
 
 <!-- ### 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝚏𝚘𝚘𝚝𝚙𝚛𝚒𝚗𝚝
-
-𝙵𝚎𝚠 𝚜𝚎𝚕𝚏-𝚋𝚞𝚒𝚕𝚝 𝚕𝚒𝚟𝚎 𝚝𝚘𝚘𝚕𝚜 𝙸 𝚞𝚜𝚎 𝚎𝚟𝚎𝚛𝚢𝚍𝚊𝚢 :
-- 𝙲𝚑𝚊𝚝 𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : (I Shall build mine.)
-- 𝚄𝚛𝚕-𝚜𝚑𝚘𝚛𝚝𝚎𝚗𝚎𝚛 : (I Shall build mine.)
 <!--
 [<img src="https://spotifynowplaying-mu.vercel.app" alt="alainQtec Spotify" width="350" />](https://open.spotify.com/user/tterywbii7eqpgndb93tjatja)
  -->
