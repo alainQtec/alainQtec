@@ -20,7 +20,7 @@
 </br>
 
 <details>
-<summary>Synopsis (:octocat: :video_game: :eyeglasses: 🛠️)</summary>
+<summary>Synopsis (🛠️ :video_game:)</summary>
 <br/>
 <div align="center">
 <table style="border:0px solid transparent; cellpadding="0"; cellspacing="0"; padding: 0; font-size: .7rem;">
@@ -51,7 +51,6 @@
  <img src="https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only" width="280" align="right" alt="Overview Alain Gitstats"/>
 </a>
 <!-- markdownlint-enable MD033 -->
-
 <p align="left">
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://github.com/alainQtec/alainQtec/blob/main/Images/rustaceans-community.png" alt="rust" width="50" height="40"/></a>
 <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
@@ -83,10 +82,9 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-</p>
-<br/>
-</details>
-<br/>
+  </p>
+  <br/>
+  </details>
 </details>
 <ul>
    <li>The art of programming is the skill of controlling complexity.</li>
@@ -95,9 +93,9 @@
    </li>
 </ul>
 <details>
-<summary>Details</summary>
+<summary>Details (:eyeglasses: :octocat:)</summary>
   <!-- 📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about) -->
   <div style="overflow: scroll">
    <img src="https://github.com/alainQtec/alainQtec/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
+  </div>
 </details>
