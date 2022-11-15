@@ -18,8 +18,6 @@
 <a href="mailto:alain.1337dev@outlook.com"><code>alain.1337dev@outlook.com</code></a> │ <a href="https://keybase.io/alainQtec/pgp_keys.asc?fingerprint=KEYGOESHERE"><code>keybase.io/alainQtec</code></a>
 </p>
 </br>
-<!-- 📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about) -->
-<img src="https://github.com/alainQtec/alainQtec/blob/main/github-metrics.svg" alt="Metrics" width="100%" style="overflow: scroll">
 
 <details>
 <summary>Summary (:octocat: :video_game: :eyeglasses: 🛠️)</summary>
@@ -96,4 +94,5 @@
         while(ᴀʟɪᴠᴇ){ riskItAll() }</br>&nbsp/* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 ⁽ᶠⁱᶜᵗⁱᵒⁿᵃˡ ᶜʰᵃʳᵃᶜᵗᵉʳ⁾ */
    </li>
 </ul>
-<!-- Used Fonts from https://www.coolfontsgenerator.com/ ST2 -->
+<!-- 📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about) -->
+<img src="https://github.com/alainQtec/alainQtec/blob/main/github-metrics.svg" alt="Metrics" width="100%" style="overflow: scroll">
