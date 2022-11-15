@@ -37,8 +37,8 @@
 - 🎯 2022 𝙶𝚘𝚊𝚕: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.
 
 <!-- - 💞️ 𝙸'𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 .𝙽𝙴𝚃 𝚌𝚘𝚛𝚎 𝚋𝚊𝚜𝚎𝚜 𝚝𝚘𝚘𝚕𝚜 𝚊𝚗𝚍 𝚋𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢 𝚊𝚕𝚕 𝚛𝚎𝚙𝚘𝚜 𝚙𝚒𝚗𝚗𝚎𝚍 𝚋𝚎𝚕𝚕𝚘𝚠. -->
-<!-- - ☕ 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐](https://alainqtec.com/projects/machinelearning) 𝚊𝚗𝚍 [𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝](https://alainqtec.com/projects/webdesign) -->
-<!-- - 📝 𝙸 𝚛𝚎𝚐𝚞𝚕𝚊𝚛𝚕𝚢 𝚠𝚛𝚒𝚝𝚎 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 𝚖𝚢 <a href="https://alainqtec.com/blog/" title="𝚊𝚕𝚊𝚒𝚗𝚀𝚝𝚎𝚌.𝚌𝚘𝚖/𝚋𝚕𝚘𝚐  &̴   𝚌𝚢𝚋𝚛𝚝𝚛𝚡.𝚌𝚘𝚖">𝚋𝚕𝚘𝚐𝚜</a> -->
+<!-- - ☕ 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐](https://alainqtec.dev/projects/machinelearning) 𝚊𝚗𝚍 [𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝](https://alainqtec.com/projects/webdesign) -->
+<!-- - 📝 𝙸 𝚛𝚎𝚐𝚞𝚕𝚊𝚛𝚕𝚢 𝚠𝚛𝚒𝚝𝚎 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 𝚖𝚢 <a href="https://alainqtec.dev/blog/" title="𝚊𝚕𝚊𝚒𝚗𝚀𝚝𝚎𝚌.𝚌𝚘𝚖/𝚋𝚕𝚘𝚐  &̴   𝚌𝚢𝚋𝚛𝚝𝚛𝚡.𝚌𝚘𝚖">𝚋𝚕𝚘𝚐𝚜</a> -->
 </details>
 
 <!-- ### 𝙳𝚒𝚐𝚒𝚝𝚊𝚕 𝚏𝚘𝚘𝚝𝚙𝚛𝚒𝚗𝚝
@@ -57,7 +57,7 @@
 <!-- markdownlint-enable MD033 -->
 
 <p align="left">
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://github.com/alainQtec/AlainQtec/blob/main/Images/rustaceans-community.png" alt="rust" width="50" height="40"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://github.com/alainQtec/alainQtec/blob/main/Images/rustaceans-community.png" alt="rust" width="50" height="40"/></a>
 <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/></a>
 <a href="https://docs.microsoft.com/en-us/powershell?" target="_blank"><img src="https://raw.githubusercontent.com/alainQtec/AlainQtec/main/Images/powershell.svg" alt="PowerShell" width="40" height="40"/></a>
@@ -132,4 +132,5 @@
         </li>
       </ul>
 </details>
+<img src="https://github.com/alainQtec/alainQtec/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 <!-- Used Fonts from https://www.coolfontsgenerator.com/ ST2 -->
