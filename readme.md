@@ -19,7 +19,7 @@
 </p>
 </br>
 <!-- 📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about) -->
-<img src="https://github.com/alainQtec/alainQtec/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://github.com/alainQtec/alainQtec/blob/main/github-metrics.svg" alt="Metrics" width="100%" style="overflow: scroll">
 
 <details>
 <summary>Summary (:octocat: :video_game: :eyeglasses: 🛠️)</summary>
