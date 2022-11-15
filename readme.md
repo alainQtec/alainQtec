@@ -20,7 +20,7 @@
 </br>
 
 <details>
-<summary>Summary (:octocat: :video_game: :eyeglasses: 🛠️)</summary>
+<summary>Synopsis (:octocat: :video_game: :eyeglasses: 🛠️)</summary>
 <br/>
 <div align="center">
 <table style="border:0px solid transparent; cellpadding="0"; cellspacing="0"; padding: 0; font-size: .7rem;">
@@ -94,5 +94,10 @@
         while(ᴀʟɪᴠᴇ){ riskItAll() }</br>&nbsp/* ᵒᵗʰᵉʳʷⁱˢᵉ ʸᵒᵘ'ʳᵉ ʲᵘˢᵗ ᵃⁿ ⁱⁿᵉʳᵗ ᶜʰᵘⁿᵏ ᵒᶠ ʳᵃⁿᵈᵒᵐˡʸ ᵃˢˢᵉᵐᵇˡᵉᵈ ᵐᵒˡᵉᶜᵘˡᵉˢ ᵈʳⁱᶠᵗⁱⁿᵍ ʷʰᵉʳᵉᵛᵉʳ ᵗʰᵉ ᵘⁿⁱᵛᵉʳˢᵉ ᵇˡᵒʷˢ ʸᵒᵘ. - Rɪᴄᴋ C-137 ⁽ᶠⁱᶜᵗⁱᵒⁿᵃˡ ᶜʰᵃʳᵃᶜᵗᵉʳ⁾ */
    </li>
 </ul>
-<!-- 📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about) -->
-<img src="https://github.com/alainQtec/alainQtec/blob/main/github-metrics.svg" alt="Metrics" width="100%" style="overflow: scroll">
+<details>
+<summary>Details</summary>
+  <!-- 📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about) -->
+  <div style="overflow: scroll">
+   <img src="https://github.com/alainQtec/alainQtec/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+</details>
