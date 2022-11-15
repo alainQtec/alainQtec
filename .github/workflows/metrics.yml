@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: bonesoul
+          user: alainQtec
           template: classic
           config_display: columns
           base: header, activity, community, repositories, metadata
