@@ -11,7 +11,7 @@
 <a href="https://instagram.com/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/instagram.svg" alt="alainQtec" height="35" width="35" /></a>
 <a href="https://dribbble.com/alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/dribbble.svg" alt="dribbleusername" height="30" width="40" /></a>
 <a href="https://medium.com/@alainQtec" target="blank"><img align="center" src="https://github.com/alainQtec/AlainQtec/blob/main/Images/medium.svg" alt="@mediumusernaewith@" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/youtube.svg" alt="youtube" height="35" width="40" /></a>
+<a href="https://www.youtube.com/@alainQtec" target="blank"><img align="center" src="https://github.com/AlainQtec/AlainQtec/blob/main/Images/youtube.svg" alt="youtube" height="35" width="40" /></a>
 </p>
 
 <p align="center">
