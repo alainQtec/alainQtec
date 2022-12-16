@@ -93,8 +93,8 @@
    </li>
 </ul>
 <details>
-<summary>Details (:eyeglasses: :octocat:)</summary>
-  <!-- 📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about) -->
+<!-- 📺 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 [𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://www.youtube.com/channel/UCDVYFgx4pJekehwMUuXOyNA/about) -->
+<summary>GitHub Details: (:eyeglasses: :octocat:)</summary>
   <div style="overflow: scroll">
    <img src="https://github.com/alainQtec/alainQtec/blob/main/github-metrics.svg" alt="Metrics" width="100%">
   </div>
