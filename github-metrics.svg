@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.43m added, 526k removed
+                                    1.22m added, 378k removed
                                 </div>
                             </section>
                             <section>
@@ -422,7 +422,7 @@
                         <span class="name">@africanDeals</span>
                     </div>
                     <div class="organization contribution  ">
-                        <img class="organization avatar" src="data:image/png;base64,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" width="16" height="16" />
+                        <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="16" height="16" />
                         <span class="name">@snagbit</span>
                     </div>
                 </div>
@@ -2384,7 +2384,7 @@ Any ideas?
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="464.79333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="464.8966666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2406,10 +2406,10 @@ Any ideas?
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">5498</div>
+                                        <div class="value">5499</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 5498 times</div>
+                                <div class="text">Repositories have been deployed 5499 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2938,7 +2938,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.67m out of 398m repositories</span>
+                                    <span class="gh">ranked 4.64m out of 398m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -3074,7 +3074,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 May 2023, 15:19:50 (timezone Africa/Harare) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 May 2023, 16:16:01 (timezone Africa/Harare) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
