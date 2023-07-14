@@ -22,5 +22,7 @@ https://u8views.com/
 https://github.com/kittinan/spotify-github-profile
 https://github.com/gautamkrishnar/blog-post-workflow
 https://github.com/yogeshwaran01/github-stats-terminal-style
+https://github.com/DenverCoder1/github-readme-youtube-cards
+https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
 
 [![Alain Herve profile views](https://u8views.com/api/v1/github/profiles/79479952/views/day-week-month-total-count.svg)](https://u8views.com/github/alainQtec) --!>
