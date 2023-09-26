@@ -11,7 +11,7 @@
 
 ⚐ Planet earth
 
-ϟ Recently re-built [my blog](https//alainQtec.dev) using Astro.
+ϟ Recently re-built [my blog](https://alainQtec.dev) using Astro.
 
 ϟ Currently building PowerShell modules.
 
