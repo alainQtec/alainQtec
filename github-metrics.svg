@@ -2385,7 +2385,7 @@ Any ideas?
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1403.5766666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1403.6799999999998 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2407,10 +2407,10 @@ Any ideas?
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">14583</div>
+                                        <div class="value">14584</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 14583 times</div>
+                                <div class="text">Repositories have been deployed 14584 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2561,7 +2561,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 291k out of 128m users</span>
+                                    <span class="gh">ranked 291k out of 126m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">77</div>
                                     </div>
@@ -2850,7 +2850,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.13m out of 128m users</span>
+                                    <span class="gh">ranked 2.13m out of 126m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -2899,7 +2899,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.61m out of 59.3m repositories</span>
+                                    <span class="gh">ranked 2.61m out of 65.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -3075,7 +3075,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jan 2024, 04:35:18 (timezone Africa/Harare) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jan 2024, 05:19:04 (timezone Africa/Harare) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
