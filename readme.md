@@ -11,9 +11,9 @@
 
 ⚐ Planet earth
 
-ϟ Recently re-built my [old blog](https://github.com/alainQtec/Old-Tech-Blog) to [use astro](https://alainQtec.dev/blog).
+ϟ Back-to-basics: Actively destroying memory with C & zig
 
-ϟ Currently building PowerShell modules.
+ϟ Currently building cli tools & PowerShell modules.
 
 ## Skills
 
