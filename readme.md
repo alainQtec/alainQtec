@@ -4,16 +4,25 @@
 
 ⤷ The art of programming is the skill of controlling complexity.
 ```PowerShell
-# .SYNOPSIS
-#  build -> tell the world -> repeat
-$me = [alainQtec]::new()
-do {
-    ($solution, $vrelease) = $me.build($me.getInspired())
-    do {
-        $feedback = $me.getFeedback($solution)
-        $me.build($vrelease, $feedback.toImprove)
-    } until ($feedback.rating -ge (80 / 100)); $me.Launch($vrelease)
-} while ($me::IsAlive -and [alainQtec]::status -eq 'Building')
+class alainQtec : Developer {
+    [bool] $IsCooking = [alainQtec]::IsAlive -and [alainQtec]::status -eq 'Building'
+    [object] buildProject() {
+        ($solution, $vrelease) = $this.build($this.getInspiration())
+        do {
+            $this.Projects[
+            $vrelease.name
+            ] = $project = $this.build($vrelease, $this.getFeedback($solution).toImprove)
+        } until ($project.rating -ge (80 / 100));
+        return $project
+    }
+}
+$alain = [alainQtec]::new();
+while ($alain.IsCooking) {
+    # .DESCRIPTION
+    #  build -> tell the world -> repeat
+    #  https://gist.github.com/alainQtec/46a22c17141ba73cc3104f0030ac8a5c
+    $alain.Launch($alain.buildProject())
+}
 ```
 
  <a aligh="left" href="https://alainQtec.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:alain.1337dev@outlook.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/alainQtec" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/alainQtec" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> <a aligh="left" href="https://www.twitch.tv/alainQtec" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitch.svg" alt="Twitch" width="22" height="22" /></a> <a aligh="left" href="https://www.youtube.com/@alainQtec" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/youtube.svg" alt="YouTube" width="22" height="22" /></a> <a aligh="left" href="http://instagram.com/alainQtec" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /></a>
