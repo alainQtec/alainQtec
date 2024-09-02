@@ -32,9 +32,9 @@ while ($alain.IsCooking) {
 
 ⚐ Planet earth
 
-ϟ Back-to-basics: Actively destroying memory with C & zig
+ϟ .NET + JavaScript = ｡♡˚
 
-ϟ Currently building cli tools & PowerShell modules.
+ϟ currently working on [10xlab.dev](10xlab.dev) && [intellzilla.com](intellzilla.com)
 
 ## Skills
 
