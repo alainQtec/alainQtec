@@ -13,7 +13,7 @@
 
 ϟ .NET + JavaScript = ｡♡˚
 
-ϟ currently working on [10xlab.dev](10xlab.dev) && [intellzilla.com](intellzilla.com)
+ϟ currently working on [10xlab.dev](https://10xlab.dev) && [intellzilla.com](https://intellzilla.com)
 
 ## Skills
 
