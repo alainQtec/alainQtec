@@ -15,7 +15,7 @@
 
 <!-- ϟ  Working on: [10xlab.dev](https://10xlab.dev), [intellzilla.com](https://intellzilla.com) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alainQtec&theme=transparent&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alainQtec&theme=transparent&border_radius=10)](https://wakatime.com/@alainQtec)
 
 [![](https://visitcount.itsvg.in/api?id=alainQtec&label=Profile%20Views&color=12&icon=1&pretty=true)](https://alainQtec.dev)
 
