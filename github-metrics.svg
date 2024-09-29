@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 8 users
+                            Followed by 7 users
                         </div>
                     </section>
                     <section>
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 2 users
+                            Following 3 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    518k added, 409k removed
+                                    473k added, 395k removed
                                 </div>
                             </section>
                             <section>
@@ -1883,7 +1883,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    8 followers
+                    7 followers
                 </h2>
                 <div class="row">
                     <section class="people">
@@ -1902,10 +1902,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    2 followed
+                    3 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFBgL/xAAvEAABAwMDAgQDCQAAAAAAAAABAgMEAAURBhIhEzEiMkFxFGGRBwglQlFyorHh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQMAAhEEIUES/9oADAMBAAIRAxEAPwASeg3BiQd7Dji3PKD3XSLpi12e2wEP6ubKzIa3x4inXEYOcH2PPtWzixbRbrQubKuMaHLkN5Dh56YI7d/0xUWz221avnljwSYwUXHHnG+CQc5QNxPr6f1UlCGVB3uKlRB+rDyC90ghqTIMEyW45dPTBPOzPGfniqiVGlB3CVO9ue/enWHbYIeuEB+BFi/CPAPTQlGwjnBWScjmuH7CwHDthx5SDyl1gBaFD5Gj5DLpOZokxrc9iuzHakdcs8b8ShLHxTa2wH2MZ2e/76udIaVn6s0SmSu9xrekJPQUhjK+PQkEYGal/edUVRrFn8pex/CrVthuy6TUzbU9FrHlHbxAZrdGFawBLUIqbYfIH2Rp5y7u25a3JEh10xiOpwVeTP8AtLsb7JGEMIDOsSzx4kJi7wFevO9OfpWDuluj2lpF3twWxPaT1i4FFW9RzkkKyPpikPQlylXLTrMmW5veUo5O0VtzjgyLx1CxOz//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEiklEQVR4nJWVS1MiVxTH+Rj9uA3dQNPd0jxEkOcgNi9bCYqAL1AggLwEUUQeis+IOE7ULMZZjKasmlQlVbPMapaTZWad3ezzNVKIxSjiaP6rrnPu+d17zzl9rgB6JBiGBwbkjcZhrbbjdo8nEpnT018kEun0dLBQKHXWYBim0+lJUvY4HIIgQV9rqVSdmwsTBFGpbOv1xnx+bXBwyOOZjMfTNM3gODE2NkGSMppmXr2yiUSi56Fq9eDl5TWKAgiCCILw+2dUqkEEQWw2bno6uLm5tb5eyWYL7979mk6vqNWDAwNyHCeegQYCs+FwtCchEATJ5azVanM63Xa7y+Fw+XyB8/PLq6sPCwuLer1RLJagKPoAKhLhdrtzdNSO43g0mnA6xx5vhuOExWJlGKZrQVGU5z2t1vn19W/1+u729r7BYKIo+g46NeWXSkmWVZTL9VbrbGSE6yECgGk0Wo1G27cGFEUFg/MbG7Wbmz9MJksbKhQK5+fD+/vHHz/+ieP48LBhf795dHQqk1Hd6zPMgMVi7eThKcEwYjSaW63zNpSiaIfD/enTX1++/NPtEo1mqFSqKpXqTgPRNCMUCqGXSQDDME0zarVGJqMYZqBn71gsCcMwRdHdIrwICt0e2+Uas9tdGIbd99E0k0rlMEyoUCgxDJua8o+P/0AQ4hdC24rFkqurG4uLMY5ziMUSHG93vsvFp9MrXq8vmcyyrIJlFTMzC6HQ0lMV+wZFEITjHAcHrdsqA7PZEg5Ht7b2/f4ZAADHOTOZQrN5ehfR7j+RxzMZjSZsNq5vogUd6Nu3V9PTwfsOALDbbFIajXZqym8wGHsiCULMcY5wOKLV6vpAJRLpzc3vQ0O9PhiGlUoVSZKRSNxoNN93OZ1jnz//nckUhocNKyvFnmIIOgV5//4DyyqgJ4SiqM8XWFr6sdtwmUz+69d/m803xeJGPr+eSuVisaTHM2mzcTqdvg1FUbRabfSc5bEIggiFIoVCaWLCSxBip9Mtl7OvX1+gKAAAGI3mYHAukUgXixvfftNkMvN9KAzDRFviYHCuXK7z/EQqlRsZGe1ZBgB2B4VhpF7fezwZO/dYXIweH/98dvb28PAkFIoolWoAAE0zKtVg3+0F3S+z2RKNJh63SLlcn5sLAwAQBMFxwmAwZbOry8vZnuL0h0IQxPMer9f38MpIrbZz3+J2jxeL5Vptp9E4eGq+CB4iYL9/1mq13TeurW1KpWTnv6jXdw8PTwKBWbvdValsu93jz0M74jjH7GxIKLzLL00ziUQmnV65uLjc3T2y2TgAMABAsbixtBSDXv7wyWRUIpH2eLwA3CWOomixWAIAMJnM+fza/Pziycl537SKRKL+0E4qDAZTPr/mcLgR5MHcazQO3O7xeDz1VKwA+q4AwHjek0rlIpG4VqvrTNV6fTeXK/K8p2+ISqV+BtqVXM5Go4lqtVEqVWKxZCAwOzSklUpJHMdFIhFJkjqd3uv1ra9XIpH4S6EdIQiCYUKWVbhcY/F4qlSq7u01m803Ozs/LS/neH6i86z9P+gL9R9SIqyORrlyAwAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAByElEQVR4nN3U20vCUBzA8f7H3nrosZdeewlfQpJaElkpVqDQNC/dRMMLaqWVt93n5nRbiWVugnTbXxCxWiuxnQN7Cr4PYwc+7HB+O1OrBGZ7U/8CdduOHnBU916wGcVuOU2VgixhJ6r0O5oqZdvM+BKC1XiRvJG5LbIBgXopXFMlTZWoO95HE3qb9WtPteyplv3l3IA9f1M6+6U0BBrnKR01xx5v4KhTTyygSrMUzUYg0KLI/o3iqJMILSdSQQiUuuMN67kv9ISGpkrM6db5jsPsZk79EGjvoW2gHeoqjvo1Vbo58m075sxo8dADiiIE9qKI49vv1c/MIo46ryJroKif/jx6o0oxubgwHw1skpEVM1oLuUDRKPf76IdddnZmmqkWFK5MhF0GiqFOBKsBoZk2M773o/Cu/jCS8VZ6z3DXa9dAaEVumjmmmk/EAh5kKZsIX2QO9ZdPXbpP5OTLmLcBhvLd1q/PfB18/LKj++85MwqwJBD6YJony0JNABSZME+TinGUNer7ukoAO2nR1mioSUKhSYGxRlMCDYWm2wBoSfwxT5blOqw1SpruJ5DyIKjcE6DQggiADh8/5txO1E1gbzBDOgl9B4IgAAxo+svJAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                     </section>
@@ -2365,7 +2366,7 @@ Any ideas?
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2329.443333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2329.5466666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2387,10 +2388,10 @@ Any ideas?
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">23543</div>
+                                        <div class="value">23544</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 23543 times</div>
+                                <div class="text">Repositories have been deployed 23544 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2597,7 +2598,7 @@ Any ideas?
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.2731006160164116 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.4852840520191812 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2715,7 +2716,7 @@ Any ideas?
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.452261306532663 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.673366834170854 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2752,12 +2753,12 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.90m out of 145m users</span>
+                                    <span class="gh">ranked 2.13m out of 145m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">8</div>
+                                        <div class="value">7</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 8 users</div>
+                                <div class="text">Followed by 7 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2845,12 +2846,46 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.60m out of 220m repositories</span>
+                                    <span class="gh">ranked 3.60m out of 223m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.5577889447236182 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g fill="none" fill-rule="evenodd">
+                                            <path d="M35 31a7 7 0 1114 0 7 7 0 01-14 0zm12-13a3 3 0 116 0 3 3 0 01-6 0zM33 49a3 3 0 116 0 3 3 0 01-6 0zM4 15a3 3 0 116 0 3 3 0 01-6 0zm37-8.5a2.5 2.5 0 115 0 2.5 2.5 0 01-5 0zM10 14l4.029-.576M19.008 26.016L21 19M29.019 34.001l5.967-1.948M36.997 46.003l2.977-8.02M46.05 24.031L48 21M28.787 18.012l7.248 8.009" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M43.62 29.004c-1.157 0-1.437.676-1.62 1.173-.19-.498-.494-1.167-1.629-1.167-.909 0-1.355.777-1.371 1.632-.022 1.145 1.309 2.365 3 3.358 1.669-.983 3-2.23 3-3.358 0-.89-.54-1.638-1.38-1.638z" fill="#2088FF"/>
+                                            <path stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M48.043 15.003L45 9"/>
+                                            <path d="M21 12a3 3 0 116 0 3 3 0 01-6 0zM27 12h3M18 12h3M21 43c-.267-1.727-1.973-3-4-3-2.08 0-3.787 1.318-4 3m4-9a3 3 0 100 6 3 3 0 000-6z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M17 30a9 9 0 110 18 9 9 0 110-18z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Follower
+                                    <div class="value-wrapper">
+                                        <div class="value">3</div>
+                                    </div>
+                                </div>
+                                <div class="text">Following 3 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2899,40 +2934,6 @@ Any ideas?
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7788944723618091 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g fill="none" fill-rule="evenodd">
-                                            <path d="M35 31a7 7 0 1114 0 7 7 0 01-14 0zm12-13a3 3 0 116 0 3 3 0 01-6 0zM33 49a3 3 0 116 0 3 3 0 01-6 0zM4 15a3 3 0 116 0 3 3 0 01-6 0zm37-8.5a2.5 2.5 0 115 0 2.5 2.5 0 01-5 0zM10 14l4.029-.576M19.008 26.016L21 19M29.019 34.001l5.967-1.948M36.997 46.003l2.977-8.02M46.05 24.031L48 21M28.787 18.012l7.248 8.009" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M43.62 29.004c-1.157 0-1.437.676-1.62 1.173-.19-.498-.494-1.167-1.629-1.167-.909 0-1.355.777-1.371 1.632-.022 1.145 1.309 2.365 3 3.358 1.669-.983 3-2.23 3-3.358 0-.89-.54-1.638-1.38-1.638z" fill="#2088FF"/>
-                                            <path stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M48.043 15.003L45 9"/>
-                                            <path d="M21 12a3 3 0 116 0 3 3 0 01-6 0zM27 12h3M18 12h3M21 43c-.267-1.727-1.973-3-4-3-2.08 0-3.787 1.318-4 3m4-9a3 3 0 100 6 3 3 0 000-6z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M17 30a9 9 0 110 18 9 9 0 110-18z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Follower
-                                    <div class="value-wrapper">
-                                        <div class="value">2</div>
-                                    </div>
-                                </div>
-                                <div class="text">Following 2 users</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
                                         <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7757757757757757 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
@@ -2956,7 +2957,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.92m out of 220m repositories</span>
+                                    <span class="gh">ranked 2.92m out of 223m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -3056,7 +3057,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Sept 2024, 22:06:43 (timezone Africa/Harare) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2024, 23:06:08 (timezone Africa/Harare) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
