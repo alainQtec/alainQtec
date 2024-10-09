@@ -15,6 +15,21 @@
 
 <!-- ϟ  Working on: [10xlab.dev](https://10xlab.dev), [intellzilla.com](https://intellzilla.com) -->
 
+## 🏆 Git Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alainQtec)](https://github-profile-trophy.vercel.app/?username=alainQtec&theme=radical)
+
+
+## 📈 GitHub Stats
+ 
+<p align="center"<a href="https://github.com/alainQtec" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainQtec&langs_count=10&count_private=true&title_color=3382ed&text_color=ffffff&layout=compact&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+
+<p align="center"<a href="http://www.github.com/alainQtec"><img src="https://github-readme-stats.vercel.app/api?username=alainQtec&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="alainQtec's GitHub stats" /></a></p>
+
+<p align="center"<a href="http://www.github.com/alainQtec"><img src="https://streak-stats.demolab.com/?user=alainQtec&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=alainQtec&theme=transparent&border_radius=10)](https://wakatime.com/@alainQtec)
 
 [![](https://visitcount.itsvg.in/api?id=alainQtec&label=Profile%20Views&color=12&icon=1&pretty=true)](https://alainQtec.dev)
