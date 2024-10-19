@@ -17,7 +17,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alainQtec&theme=transparent&border_radius=10)](https://wakatime.com/@alainQtec)
 
-[![](https://visitcount.itsvg.in/api?id=alainQtec&label=Profile%20Views&color=12&icon=1&pretty=true)](https://alainQtec.dev)
+[![](https://visitcount.itsvg.in/api?id=alainQtec&label=Profile%20Views&color=12&icon=1&pretty=true)](/Stats.md)
 
 ## Skills
 
