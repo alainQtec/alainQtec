@@ -1,6 +1,6 @@
-# Alain Herve
+# alain
 
-### Programmer
+### Pr09r4mm3r
 
 ⤷ The art of programming is the skill of controlling complexity.
 
@@ -8,12 +8,6 @@
 <p align="left">
 <a href="mailto:admin@alainQtec.dev"><code>admin@alainQtec.dev</code></a> │ <a href="https://keybase.io/alainQtec/pgp_keys.asc?fingerprint=KEYGOESHERE"><code>keybase.io/alainQtec</code></a>
 </p>
-
-⚐ Planet earth
-
-ϟ .NET + JavaScript = ｡♡˚
-
-<!-- ϟ  Working on: [10xlab.dev](https://10xlab.dev), [intellzilla.com](https://intellzilla.com) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alainQtec&theme=transparent&border_radius=10)](https://wakatime.com/@alainQtec)
 
