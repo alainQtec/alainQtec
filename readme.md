@@ -11,7 +11,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alainQtec&theme=transparent&border_radius=10)](https://wakatime.com/@alainQtec)
 
-[![](https://visitcount.itsvg.in/api?id=alainQtec&label=Profile%20Views&color=12&icon=1&pretty=true)](/Stats.md)
+[![](https://visitcount.itsvg.in/api?id=alainQtec&label=(%20%E2%89%96.%E2%89%96)&icon=1&pretty=true)](/Stats.md)
 
 ## Skills
 
@@ -25,5 +25,4 @@
 <https://github.com/yogeshwaran01/github-stats-terminal-style>
 <https://github.com/DenverCoder1/github-readme-youtube-cards>
 <https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub>
-
-[![Alain Herve profile views](https://u8views.com/api/v1/github/profiles/79479952/views/day-week-month-total-count.svg)](https://u8views.com/github/alainQtec) --!>
+--!>
